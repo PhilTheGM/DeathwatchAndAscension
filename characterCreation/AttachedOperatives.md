@@ -205,6 +205,25 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
+#### Primaris Psyker:
+
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
+
+| Cost | Type |       Advance       |
+|------|------|---------------------|
+|  |  |  |
+
 ### Organisation - Adeptus Sororitas
 
 #### Seraphim
