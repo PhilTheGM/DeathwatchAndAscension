@@ -17,10 +17,11 @@
 ### Inquisition Specialities:
 
 #### Desperado
+As a desperado you can blend with the croud in a way that would be imposible for a Space Marine under any circumstances. He has the connections to get information that would be obscured to others, and the skill to win any bar room shoot out.
 
 * +5 BS or Ag
 * You Gain Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* Pick 6 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), * Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Disguise, Dodge +10, Security +10, Slight of Hand +10
+* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), * Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Slight of Hand +10
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concelement, Disguise, Dodge, Security, Silent move, or Slight of hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * Equipment:
@@ -52,7 +53,36 @@ Characteristics:
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
-|  |  |  |
+|  |  | Disguise |
+|  |  | Disguise +10 |
+|  |  | Dodge |
+|  |  | Dodge +10 |
+|  |  | Dodge +20 |
+|  |  | Security +0 |
+|  |  | Security +10 |
+|  |  | Security +20 |
+|  |  | Tallented(Security) |
+|  |  | Slight of Hand |
+|  |  | Slight of Hand +10 |
+|  |  | Slight of Hand +20 |
+|  |  | Tallented(Slight of Hand) |
+|  |  | Peer(Deathwatch) |
+|  |  | Inquiry +20 |
+|  |  | Deathwatch Indoctrination |
+|  |  | Unremarkable |
+|  |  | Quick Draw |
+|  |  | Hard Target |
+|  |  | Sound Constitution x 8 |
+|  |  | Step Aside |
+|  |  | Swift Attack |
+|  |  | Peer(Deathwatch) |
+|  |  | Peer(Administratum) |
+|  |  | Peer(Workers) |
+|  |  | Peer(Middle Class) |
+|  |  | Lightning Reflexes |
+|  |  | 
+
+
 
 #### Arbite Seeker:
 Characteristics:
