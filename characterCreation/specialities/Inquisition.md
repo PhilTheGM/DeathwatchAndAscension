@@ -36,8 +36,8 @@ Characteristics:
 |   Wp |  750 | 1500 | 2000 | 5000 |
 |  Fel |  500 | 1000 | 1500 | 2000 |
 
-| Cost |  Type  |       Advance       |
-|------|--------|---------------------|
+| Cost |  Type  | Advance |
+|------|--------|---------|
 |  400 |  Skill | Disguise |
 |  400 |  Skill | Disguise +10 |
 |  200 |  Skill | Dodge |
@@ -67,6 +67,7 @@ Characteristics:
 |  200 | Talent | Peer(Middle Class) |
 |  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
+| 1000 | Talent | Untouchable |
 
 ## Arbite Seeker:
 Characteristics:
