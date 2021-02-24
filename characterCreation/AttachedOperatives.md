@@ -3,11 +3,10 @@
 Attached opertatives are members of organisations other that the Deathwatch who have been assigned to join the kill team to complete a number of particular objectives. Whatever their purpose, they are trusted to work allong side a team of astarties, by the watch captain and are thus above and beyond the most common of the imperium. They are trained and equiped as elite members of their respective organisations
 
 ## Character Creation
-Creation of an attached operative is a much faster simplier affair than an astartes. The following five steps are all you need to do.
+Creation of an attached operative is a much faster simplier affair than an astartes. The following seven steps are all you need to do.
 
 ### 1 - Characteristic Generation
-Characteristic are generated in the same manner as an astartes (Deathwatch Core pgXX). However, operatives add their figures to 25, rather than 30.  
-`Note there is an alternative Characteristic Generation method presented in the House Rules document`
+Characteristic are generated in the same manner as an astartes (Deathwatch Core pg25-26). However, operatives add their figures to 25, rather than 30. `Note there is an alternative Characteristic Generation method presented in the House Rules document`
 
 ### 3 - Choose an Organisation
 Available organisations can be found bellow and come with a great deal of choices to customise your character. Your organisation will give you skills talents, equipment, some special rules and the number of fate points you befin with. It also dictates how what specialities you may choose from.
@@ -19,9 +18,11 @@ Operatives can add any demeanor they feel suit, however there is a list of sugge
 Your organisation wil contain a link to the correct speciality document. The speciality will dictate what you role in the team is. It will also add to your skills, talents and special rules. From your speciality you will gain the bulk of your equipment.
 
 ### 5 - Spend Experience
-The skills, talents equipment and other tools that you have recieved thus far in character creation count bring your experience total to 12000, in line with a starting space marine. Just like a space marine you have aditional experience you may spend. This is in line with what the astartes recieve, usually another 1000xp. You may spend this experience in the progression tables within your speciality or in the Deathwatch advances (Deathwatch Core pgXX). It's worth noting that the speciality advances are not segregated, thus operative can quickly outstrip their astartes counterparts in a small number of areas.
+The skills, talents equipment and other tools that you have recieved thus far in character creation count bring your experience total to 12000, in line with a starting space marine. Just like a space marine you have aditional experience you may spend. This is in line with what the astartes recieve, usually another 1000xp. You may spend this experience in the progression tables within your speciality or in the Deathwatch advances (Deathwatch Core pg64-65). It's worth noting that the speciality advances are not segregated, thus operative can quickly outstrip their astartes counterparts in a small number of areas.
 
-### 6 - Rank
+### 6 - Past
+
+### 7 - Rank
 Although the advancment chart is not segregated by rank, operative rank increases in the same manner as Astartes.
 
 ## Organisations
