@@ -5,7 +5,7 @@
 * +5 to any 2 Characteristics
 * Start with Speak Language(Low Gothic), Pistol Weapon Training(Las or Solid Projectile), Basic Weapon Training(Las or Solid Projectile), Weapon Training (Low Tech)
 * Trained in any 12 of the following +10 in another 2: Acrobatics, Barter, Charm, Common Lore(any), Concealment, Deceive, Drive(any), Evaluate, Gamble, Inquiry, Interrogation, Lip Reading, Literacy, Logic, Medicae, Navigate(any), Performer(any), Pilot(any), Security, Search, Silent Move, Sleight of Hand, Speak Language(any), Survival, Swim, Tracking, Wrangling.
-*Trained in any 4 of the following: Scholastic Lore(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
+*Trained in any 4 of the following: Lore: Scholastic(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
 * +10 in any 2 of the following: Ciphers(Any), Chem-Use, Contortionist, Forbidden Lore(Any)
 * Tallents: Peer(Inquisition), Optionally pick 1 more peer, but also gain 1 enemy. 
 * Hitpoints: 10
@@ -179,7 +179,13 @@ Characteristics:
 |  |  |  |
 
 #### Interrogator:
+One of the few mortals that can speak to an astarties as an equal, you are prized for your insight, connections and knowledge of the unknowable. Away from the kill team you hold athority that is rivaled by few. Within the kill team your opinion and influence are highly valued.
 
+* +5 Int or Wp
+* You Gain Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scolastic (Any 1), Lore: Forbidden(Any 1)
+* Pick 7 of the following: 
+* Once per round you can ...
+* You may spend a fate point to ...
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
