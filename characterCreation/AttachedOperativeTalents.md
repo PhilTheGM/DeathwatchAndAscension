@@ -1,6 +1,6 @@
-#Attached Operative Talents
+# Attached Operative Talents
 
-## Untouchable
+### Untouchable
 
 ### Deathwatch Indoctrination
 
