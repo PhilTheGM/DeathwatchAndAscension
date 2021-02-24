@@ -143,7 +143,7 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
-#### Sage:
+## Sage:
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
@@ -162,7 +162,7 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
-#### Interrogator:
+## Interrogator:
 One of the few mortals that can speak to an astarties as an equal, you are prized for your insight, connections and knowledge of the unknowable. Away from the kill team you hold athority that is rivaled by few. Within the kill team your opinion and influence are highly valued.
 
 * +5 Int or Wp
