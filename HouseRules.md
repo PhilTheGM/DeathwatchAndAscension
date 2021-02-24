@@ -40,3 +40,10 @@ The hit location rules that came with the origional Dark Heresy 2 Beta (which wa
 
 ## Errata
 The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speed up play. They are highly recomended!
+
+## Conflicting or Missing Rules
+Here and there there are conflicting rules when it comes to certain topics within the Deathwatch rulebooks. The following is a list of rulings to deal with some frequently asked questions:
+#### Solo Modes for Custom Made Chapters
+#### Squad modes for Codex Chapters
+#### First Founding Chapters with less Squad Modes/Solo Modes/Psychic Powers that the Storm Wardens
+I am aware of this issue, but I have never heard a complaint about it. If and when a complaint does arrise I will try to come to a simple solution and document it here.
