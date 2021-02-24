@@ -31,3 +31,6 @@ Storm Weapons can be used for suppressing fire, following all the rules for supp
 ## Hit Location Chart
 The hit location rules that came with the origional Dark Heresy 2 Beta (which was sinse scrapped) is faster and  easier to remember. In this system you take the units dice of your to-hit roll and compaire them to the bellow chart.
 1=Head, 2=Left Arm, 3=Right Arm, 4-6=Chest, 7-8=Left Leg, 9-0=Right Leg.
+
+## Errata
+The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speed up play. They are highly recomended!
