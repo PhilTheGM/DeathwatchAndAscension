@@ -34,6 +34,11 @@ As an experienced and elite team, you are always considered to have brought enou
 ## Storm Weapons can Suppress
 Storm Weapons can be used for suppressing fire, following all the rules for suppressing fire that full auto weapons do. A hit using a storm weapon with suppressing fire, not on full auto, does not count as two hits.
 
+## Using Astartes/Mortal weapons
+An astartes can spend a half action, ripping off trigger guards etc from a mortal weapon to make it usable. Doing so will make the weapon standard quality, unless it's already poor quality. Mortal weapons used by an astartes count as being inacurate. Aditionally a natural 100 rolled to use a mortal weapon by an astartes will destroy the wargear.
+
+A mortal can fire an astartes weapon without modification to the weapon. Astartes weapons used by an mortal count as being inacurate. Aditionally a natural 100 rolled to use a mortal weapon by an astartes will inflict a critical wound to a random location of the user. Roll on the impact critical chart against the given location 1d5.
+
 ## Hit Location Chart
 The hit location rules that came with the origional Dark Heresy 2 Beta (which was sinse scrapped) is faster and  easier to remember. In this system you take the units dice of your to-hit roll and compaire them to the bellow chart.
 1=Head, 2=Left Arm, 3=Right Arm, 4-6=Chest, 7-8=Left Leg, 9-0=Right Leg.
