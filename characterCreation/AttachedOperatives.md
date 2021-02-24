@@ -51,37 +51,37 @@ Characteristics:
 |   Wp |  750 | 1500 | 2000 | 5000 |
 |  Fel |  500 | 1000 | 1500 | 2000 |
 
-| Cost | Type |       Advance       |
-|------|------|---------------------|
-|  |  | Disguise |
-|  |  | Disguise +10 |
-|  |  | Dodge |
-|  |  | Dodge +10 |
-|  |  | Dodge +20 |
-|  |  | Security +0 |
-|  |  | Security +10 |
-|  |  | Security +20 |
-|  |  | Tallented(Security) |
-|  |  | Slight of Hand |
-|  |  | Slight of Hand +10 |
-|  |  | Slight of Hand +20 |
-|  |  | Tallented(Slight of Hand) |
-|  |  | Peer(Deathwatch) |
-|  |  | Inquiry +20 |
-|  |  | Deathwatch Indoctrination |
-|  |  | Unremarkable |
-|  |  | Quick Draw |
-|  |  | Hard Target |
-|  |  | Sound Constitution x 8 |
-|  |  | Step Aside |
-|  |  | Swift Attack |
-|  |  | Peer(Deathwatch) |
-|  |  | Peer(Administratum) |
-|  |  | Peer(Workers) |
-|  |  | Peer(Middle Class) |
-|  |  | Lightning Reflexes |
-|  |  | 
-
+| Cost |  Type  |       Advance       |
+|------|--------|---------------------|
+|  400 |  Skill | Disguise |
+|  400 |  Skill | Disguise +10 |
+|  200 |  Skill | Dodge |
+|  200 |  Skill | Dodge +10 |
+|  400 |  Skill | Dodge +20 |
+|  400 |  Skill | Security +0 |
+|  400 |  Skill | Security +10 |
+|  400 |  Skill | Security +20 |
+|  500 | Talent | Tallented(Security) |
+|  200 |  Skill | Slight of Hand |
+|  200 |  Skill | Slight of Hand +10 |
+|  400 |  Skill | Slight of Hand +20 |
+|  500 | Talent | Talented(Slight of Hand) |
+|  400 |  Skill | Inquiry |
+|  400 |  Skill | Inquiry +10 |
+|  400 |  Skill | Inquiry +20 |
+|  600 | Talent | Peer(Deathwatch) |
+| 1000 | Talent | Deathwatch Indoctrination |
+|  500 | Talent | Unremarkable |
+|  500 | Talent | Quick Draw |
+|  600 | Talent | Hard Target |
+|  400 | Talent | Sound Constitution x 8 |
+|  800 | Talent | Step Aside |
+|  800 | Talent | Swift Attack |
+|  400 | Talent | Peer(Administratum) |
+|  200 | Talent | Peer(Workers) |
+|  200 | Talent | Peer(Middle Class) |
+|  400 | Talent | Good Reputation(Underworld) |
+|  400 | Talent | Lightning Reflexes |
 
 
 #### Arbite Seeker:
@@ -275,6 +275,24 @@ Characteristics:
 |  |  |  |
 
 #### Celestian
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
+
+| Cost | Type |       Advance       |
+|------|------|---------------------|
+|  |  |  |
+
+#### Dominions
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
