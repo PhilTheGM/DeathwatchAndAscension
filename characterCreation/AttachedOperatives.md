@@ -186,6 +186,7 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
 * Pick 7 of the following: 
 * Once per round you can ...
 * You may spend a fate point to ...
+
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
