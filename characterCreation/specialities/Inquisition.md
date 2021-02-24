@@ -67,7 +67,7 @@ Characteristics:
 |  200 | Talent | Peer(Middle Class) |
 |  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
-| 1000 | Talent | Untouchable |
+|  500 | Talent | Untouchable |
 
 ## Arbite Seeker:
 Characteristics:
