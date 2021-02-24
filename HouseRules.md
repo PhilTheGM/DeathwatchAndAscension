@@ -3,7 +3,7 @@
 A collection of suggested house rules to make play faster and more fun!
 
 ## Characteristics Array Method
-Thake the following array and add 5 points,  increasing no number above 20:  
+Take the following array and add 5 points,  increasing no number above 20:  
 `2, 6, 8, 10, 11, 12, 14, 16, 18`  
 The resulting figures may be added to your characteristics in any order you wish.
 
