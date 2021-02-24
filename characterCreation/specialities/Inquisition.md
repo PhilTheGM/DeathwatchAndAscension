@@ -17,9 +17,9 @@ As a desperado you can blend with the croud in a way that would be imposible for
     * 1 Bolt pistol & 3 frag or krak grenades
     * 1 Plasma pistol & 1 stub gun or stub automatic
   * You can choose 1 from the following list:
-    * Autogun with fire selector, 1 clip of and 2 clips from the following list: Ignis Rounds, Penitrator Rounds, Shredder Rounds (Rights of Battle pg140)
+    * Autogun with fire selector, and 2 clips from the following list: Ignis Rounds, Penitrator Rounds (Rights of Battle pg140)
     * Bolt gun
-    * Combat shotgun
+    * Combat shotgun with fire selector, and 2 clips from the following list: Breaching Rounds, Ignis Rounds, Penitrator Rounds, Shredder Rounds, Slug Rounds (Rights of Battle pg140)
     * 3 frag of krak grenades or fire bombs
     * 1 web grenade
     
@@ -56,10 +56,12 @@ Characteristics:
 |  400 |  Skill | Inquiry +20 |
 |  600 | Talent | Peer(Deathwatch) |
 | 1000 | Talent | Deathwatch Indoctrination |
+|  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
 |  500 | Talent | Quick Draw |
 |  600 | Talent | Hard Target |
-|  400 | Talent | Sound Constitution x 8 |
+|  200 | Talent | Sound Constitution x 2 |
+|  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  800 | Talent | Swift Attack |
 |  400 | Talent | Peer(Administratum) |
@@ -204,7 +206,8 @@ Characteristics:
 |  700 | Talent | Concealed Cavity |
 |  500 | Talent | Peer(Any) x 4 |
 |  700 | Talent | Good Reputation(Any) x 4 |
-|  500 | Talent | Sound Constitution x 5 |
+|  200 | Talent | Sound Constitution x 3 |
+|  500 | Talent | Sound Constitution x 3 |
 |  700 | Talent | Fearless |
 |  500 | Talent | Hip Shooting |
 |  500 | Talent | Inspire Wrath |
