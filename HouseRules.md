@@ -28,7 +28,7 @@ Where it makes sence for the character, players are allowed to swap out starting
 #### Unacceptable Examples
  * Salamanders Devastator with a multi-melta instead of a heavy bolter.
 
-## Infinity Reloads
+## Infinite Reloads
 As an experienced and elite team, you are always considered to have brought enough amunition to get the job done. Unless the secnario dictates otherwise, your character always has another reload for all basic and pistol weapons. Only heavy weapons and grenades require the player to track reloads.
 
 ## Storm Weapons can Suppress
