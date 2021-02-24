@@ -48,7 +48,16 @@ The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speed up p
 
 ## Conflicting or Missing Rules
 Here and there there are conflicting rules when it comes to certain topics within the Deathwatch rulebooks. The following is a list of rulings to deal with some frequently asked questions:
-#### Solo Modes for Custom Made Chapters
-#### Squad modes for Codex Chapters
+#### Astarties Past Deeds for Custom Made Chapters
+Astartes from a chapter made using the custom chapter creation rules presented in Rites of Battle may have past selected from the following:
+![Codex Pasts](images/AstartesPasts.png "Codex Pasts")
+`Honor The Chapter pg100`
+
+#### Squad Modes for Codex Chapters
+Using the your chapter's background and past as a guide you may choose your chapters squad mode attack and defensive pattern from the tables in Honor the Chapter pg33.
+
+#### Duplicates of the same Chapter
+The general rule of thumb here is to take the rules from the earlier book. For Exaple the Flesh Tearers are presented in both Rites of Battle and Honour the Chapter. Take the rules in Rights of Battle. Novamarines have the exact same problem, and the exact same solution.
+
 #### First Founding Chapters with less Squad Modes/Solo Modes/Psychic Powers that the Storm Wardens
 I am aware of this issue, but I have never heard a complaint about it. If and when a complaint does arrise I will try to come to a simple solution and document it here.
