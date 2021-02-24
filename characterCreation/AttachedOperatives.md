@@ -42,12 +42,12 @@ Although the advancment chart is not segregated by rank, operative rank increase
 
 Members of the Inquisition my select one speciality from the [Inquisition Specialities](specialities/Inquisition.md) document.
 
-## Organisation - Adepta Sororitas
+### Adepta Sororitas
 
 
 Members of the Adepta Sororitas my select one speciality from the [Adepta Sororitas Specialities](specialities/AdeptaSororitas.md) document.
 
-## Organisation - Adeptus Mechanicus
+### Adeptus Mechanicus
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
@@ -66,7 +66,7 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
-## Organisation - Adeptus Assassinorum
+### Adeptus Assassinorum
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
