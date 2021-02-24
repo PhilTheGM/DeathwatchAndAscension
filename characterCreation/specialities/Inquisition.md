@@ -68,8 +68,7 @@ Characteristics:
 |  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
 
-
-#### Arbite Seeker:
+## Arbite Seeker:
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
