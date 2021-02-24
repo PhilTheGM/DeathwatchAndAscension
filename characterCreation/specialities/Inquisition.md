@@ -92,15 +92,15 @@ Characteristics:
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|   BS |  500 | 1000 | 1500 | 2000 |
-|   WS |  500 | 1000 | 1500 | 2000 |
-|    S |  500 | 1000 | 1500 | 2000 |
-|    T |  500 | 1000 | 1500 | 2000 |
-|   Ag |  500 | 1000 | 1500 | 2000 |
-|  Int |  200 |  500 | 1000 | 1500 |
-|  Per |  500 | 1000 | 1500 | 2000 |
-|   Wp |  200 |  500 | 1000 | 1500 |
-|  Fel |  500 | 1000 | 1500 | 2000 |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
@@ -184,19 +184,37 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+|   BS |  500 | 1000 | 1500 | 2000 |
+|   WS |  500 | 1000 | 1500 | 2000 |
+|    S |  500 | 1000 | 1500 | 2000 |
+|    T |  500 | 1000 | 1500 | 2000 |
+|   Ag |  500 | 1000 | 1500 | 2000 |
+|  Int |  200 |  500 | 1000 | 1500 |
+|  Per |  500 | 1000 | 1500 | 2000 |
+|   Wp |  200 |  500 | 1000 | 1500 |
+|  Fel |  500 | 1000 | 1500 | 2000 |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
-|  |  |  |
+|  700 |  Skill | Skill(Any) x 7 |
+|  700 |  Skill | Skill(Any) +10 x 7 |
+|  700 |  Skill | Skill(Any) +20 x 7  |
+|  700 | Talent | Talented(Any) x 3  |
+|  500 | Talent | Air of Athority |
+|  700 | Talent | Concealed Cavity |
+|  500 | Talent | Peer(Any) x 4 |
+|  700 | Talent | Good Reputation(Any) x 4 |
+|  500 | Talent | Sound Constitution x 5 |
+|  700 | Talent | Fearless |
+|  500 | Talent | Hip Shooting |
+|  500 | Talent | Inspire Wrath |
+|  500 | Talent | Iron Disapline |
+|  500 | Talent | Into the Jaws of Hell |
+|  500 | Talent | Jaded |
+|  500 | Talent | Light Sleeper |
+|  500 | Talent | Mimic |
+|  500 | Talent | Psy Rating 1 |
+| *var | Talent | Psychic Power x 4 |
 
 ## Storm Trooper:
 
