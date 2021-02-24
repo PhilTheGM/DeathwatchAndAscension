@@ -8,7 +8,7 @@ Take the following array and add 5 points. You may not increase any number above
 The resulting figures may be added to your characteristics in any order you wish.
 
 ## Chapter Selection
-One chapter from each founding only. Obviously, an unlimited number of choices from unknown foundings is allowable, though only one from each chapter.
+One chapter from each founding only. Obviously, an unlimited number of choices from unknown foundings is allowable, though only one from each chapter. No more than 2 characters that are successors of the same chapter, or are themselves members of the parent chapter.
 
 ## Gear Swapping
 Where it makes sence for the character, players are allowed to swap out starting wargear (AKA standard issue wargear) with others of simular power level. Of course the GM has final say on what is or isn't an acceptable swap.
