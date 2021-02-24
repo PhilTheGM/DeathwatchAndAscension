@@ -10,17 +10,19 @@ Allow quicker creation of characters for Deathwatch and high level Dark Heresy g
 
 * Deathwatch Core Rulebook
 * Deathwatch Rites Of Battle
+* [Deathwatch Errata](DeathwatchErrata.pdf)
 
 ## Content
 
-* House Rules - Suggested house rules to make gamesplay faster and/or more fun.
+* [House Rules](HouseRules.md) - Suggested house rules to make gamesplay faster and/or more fun.
 * Wargear - Weapons, armor and gear, predominatly for use by Attached Operatives.
 
 ### Character Creation
 
-* Deathwatch Character Creation Guide - An organised guide to creating a Deathwatch, with page number and book references.
+* [Deathwatch Character Creation Guide](DeathwatchCharacterCreationGuide.md) - An organised guide to creating a Deathwatch, with page number and book references.
 * [Attached Operatives](characterCreation/AttachedOperatives.md) - For those players who don't want to play as Space Marines.
 * Pregenorated Characters - Pregenorated Characters for both Spacemarines and Attached Operative. Allong with some light rules for tweaking them.
 * [Attached Operative Talents](characterCreation/AttachedOperativeTalents.md) - Talents for use by attached operatives. Mostly pulled from other 40K RPG lines, but some homebrewed.
 
 ## Links
+* [The Origional Deathwatch Character Creation Guide](http://robf.com.au/2017/01/15/process-document-deathwatch-character-creation-guide/)
