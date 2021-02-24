@@ -26,5 +26,5 @@ Allow quicker creation of characters for Deathwatch and high level Dark Heresy g
 
 ## Links
 * [The Origional Deathwatch Character Creation Guide](http://robf.com.au/2017/01/15/process-document-deathwatch-character-creation-guide/)
-* [A huge listed of extra wargear](https://darkheresy.fandom.com/wiki/Extra_Weapons)
+* [A huge list of extra wargear](https://darkheresy.fandom.com/wiki/Extra_Weapons)
 * [www.40krpgtools.com](http://www.40krpgtools.com/)
