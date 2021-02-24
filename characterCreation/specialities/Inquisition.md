@@ -92,15 +92,15 @@ Characteristics:
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+|   BS |  500 | 1000 | 1500 | 2000 |
+|   WS |  500 | 1000 | 1500 | 2000 |
+|    S |  500 | 1000 | 1500 | 2000 |
+|    T |  500 | 1000 | 1500 | 2000 |
+|   Ag |  500 | 1000 | 1500 | 2000 |
+|  Int |  200 |  500 | 1000 | 1500 |
+|  Per |  500 | 1000 | 1500 | 2000 |
+|   Wp |  200 |  500 | 1000 | 1500 |
+|  Fel |  500 | 1000 | 1500 | 2000 |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
@@ -168,9 +168,18 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
 
 * +5 Int or Wp
 * You Gain Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scolastic (Any 1), Lore: Forbidden(Any 1)
-* Pick 7 of the following: 
-* Once per round you can ...
-* You may spend a fate point to ...
+* Pick 7 of the following: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Forsight, Infused Knowledge.
+* Equipment:
+  * Your your inquisitorial uniform counts as a suit of carapace (6AC all)
+  * You can choose 2 pistol, melee or exotic weapon. These may be astartes weapons.
+  * You may choose any 1 grenade. 
+  * You may choose any 2 from the following list:
+    * Weapon Upgrade
+    * Wargear
+    * Tools
+    * Cybernetics
+* Once per game you may count as having any 1 skill or talent for the sake of a single test.
+* You may spend a fate point to automatically succeed an interogation test with number of degrees of success equal to his Willpower Bonus. At the GM's discression his may be used to interogate characters that would not normally be allowed to be interogated.
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
