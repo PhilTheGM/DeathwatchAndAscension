@@ -49,18 +49,19 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 ### Adepta Sororitas
 
 * +5 to Willpower and either Weapon Skill or Balistic Skill
-* **Start with**: Acrobatics, Awareness, Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Speak Language(Low Gothic, High Gothic), Literacy, Pistol Weapon Training(Bolt), Basic Weapon Training(Bolt), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain), Perforer(Singer)
-* Choose 1 of the following:. 
-  * Flame
-  * Melta
-  * Medicae
-  * Drive/Pilot
-*Trained in any 4 of the following: Lore: Scholastic(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
-* +10 in any 2 of the following: Ciphers(Any), Chem-Use, Contortionist, Forbidden Lore(Any)
-* **Talents**: True Faith
+* **Start with**: Acrobatics, Awareness, Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Scolastic Lore(Philosophy), Speak Language(Low Gothic, High Gothic, Sorroritas Battle Cant), Perforer(Singer), Literacy
+*  **Talents**: Basic Weapon Training(Bolt), Hatred(Heritics, Mutants, Psykers), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain), Nerves of Steel, Pistol Weapon Training(Bolt), Quickdraw, True Faith
+* **Choose 1 of The Following**: 
+  * Basic Weapon Training(Flame), Heavy Weapon Training(Flame), Pistol Weapon Training(Flame), Cleanse and Purify
+  * Basic Weapon Training(Melta), Heavy Weapon Training(Melta), Pistol Weapon Training(Melta)
+  * Medicae, Medicae +10, Trade(Chimist), Hardy
+  * Melee Weapon Training(Power), Swift Attack, Hatred(Any)
+  * Drive(Any), Drive(Any) +10, Navigate(Any)
+  * Pilot(Any), Pilot(Any) +10, Navigate(Any)
+* **Any 5 of The Following**: Command, Dodge +10, Intimidate, Jaded, Search, Swim, Flagallent, Hatered(Xenos), Hardy, Tech Use.
 * **Hitpoints**: 12
 * **Fate Points**: 1-4=3, 6-8=4, 9-10=5
-* **Equipment**: Bolt Pistol, Sororitas Power Armour, Santified Knife (1d5R, Santified)
+* **Equipment**: Bolt Pistol, Sororitas Power Armour, Santified Knife (1d5R, Sanctified), Chaplet Ecclesiasticus (Counts as a Charm), Ring of Sufferage(Counts as a Charm), Copy of the Rule of Sororitas, Soriada, Writing Kit, Shield Robes.
 * Adepta Sororitas can spend a fate point to heal 1d10 wounds.
 * **Organisation Demeanor**: Pious
 * **Suggested Demeanors**: Calculating, Heroic, Hot Blooded, Jaded, Loner, Loyal, Obsessive, Quiet, Reckless, Sensible, Studious, Stoic, Scornfun, Proud.
