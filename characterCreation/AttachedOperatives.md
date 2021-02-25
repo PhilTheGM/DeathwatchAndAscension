@@ -1,6 +1,6 @@
 # Attached Operatives
 
-Attached opertatives are members of organisations other that the Deathwatch who have been assigned to join the kill team to complete a number of particular objectives. Whatever their purpose, they are trusted to work allong side a team of astarties, by the watch captain and are thus above and beyond the most common of the imperium. They are trained and equiped as elite members of their respective organisations
+Attached opertatives are members of organisations other that the Deathwatch who have been assigned to join the kill team to complete a particular objective. Whatever their purpose, they are trusted to work allong side a team of astarties, by the watch captain and are thus above and beyond the most common citizenship of the imperium. They are trained and equiped as elite members of their respective organisations.
 
 ## Character Creation
 Creation of an attached operative is a much faster simplier affair than an astartes. The following seven steps are all you need to do.
@@ -31,7 +31,7 @@ Although the advancment chart is not segregated by rank, operatives rank increas
 ### Inquisition
 
 * +5 to any 2 Characteristics
-* Start with Speak Language(Low Gothic), Pistol Weapon Training(Las or Solid Projectile), Basic Weapon Training(Las or Solid Projectile), Weapon Training (Low Tech)
+* **Start with**: Speak Language(Low Gothic), Pistol Weapon Training(Las or Solid Projectile), Basic Weapon Training(Las or Solid Projectile), Weapon Training (Low Tech), Literacy
 * Trained in any 12 of the following. +10 in another 2: Acrobatics, Barter, Charm, Common Lore(any), Concealment, Deceive, Drive(any), Evaluate, Gamble, Inquiry, Interrogation, Lip Reading, Literacy, Logic, Medicae, Navigate(any), Performer(any), Pilot(any), Security, Search, Silent Move, Sleight of Hand, Speak Language(any), Survival, Swim, Tracking, Wrangling.
 * Trained in any 4 of the following: Lore: Scholastic(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
 * +10 in any 2 of the following: Ciphers(Any), Chem-Use, Contortionist, Forbidden Lore(Any)
@@ -49,16 +49,19 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 ### Adepta Sororitas
 
 * +5 to Willpower and either Weapon Skill or Balistic Skill
-* Start with Speak Language(Low Gothic, High Gothic), Pistol Weapon Training(Bolt), Basic Weapon Training(Bolt), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain)
-* *here* Trained in any 12 of the following. +10 in another 2: Acrobatics, Barter, Charm, Common Lore(any), Concealment, Deceive, Drive(any), Evaluate, Gamble, Inquiry, Interrogation, Lip Reading, Literacy, Logic, Medicae, Navigate(any), Performer(any), Pilot(any), Security, Search, Silent Move, Sleight of Hand, Speak Language(any), Survival, Swim, Tracking, Wrangling.
+* **Start with**: Acrobatics, Awareness, Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Speak Language(Low Gothic, High Gothic), Literacy, Pistol Weapon Training(Bolt), Basic Weapon Training(Bolt), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain), Perforer(Singer)
+* Choose 1 of the following:. 
+  * Flame
+  * Melta
+  * Medicae
+  * Drive/Pilot
 *Trained in any 4 of the following: Lore: Scholastic(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
 * +10 in any 2 of the following: Ciphers(Any), Chem-Use, Contortionist, Forbidden Lore(Any)
 * **Talents**: True Faith
-* **Hitpoints**: 10
+* **Hitpoints**: 12
 * **Fate Points**: 1-4=3, 6-8=4, 9-10=5
-* **Equipment**: Bolt Pistol, Sororitas Power Armour.
-* When you have completed character creation, you may increase a single piece of equipment to master craftsmanship.
-* Adepta Sororitas can spend a fate point to determine if someone is lying. This can be done before or after rolling scrutiny.
+* **Equipment**: Bolt Pistol, Sororitas Power Armour, Santified Knife (1d5R, Santified)
+* Adepta Sororitas can spend a fate point to heal 1d10 wounds.
 * **Organisation Demeanor**: Pious
 * **Suggested Demeanors**: Calculating, Heroic, Hot Blooded, Jaded, Loner, Loyal, Obsessive, Quiet, Reckless, Sensible, Studious, Stoic, Scornfun, Proud.
 
