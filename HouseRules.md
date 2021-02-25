@@ -34,6 +34,9 @@ As an experienced and elite team, you are always considered to have brought enou
 ## Storm Weapons can Suppress
 Storm Weapons can be used for suppressing fire, following all the rules for suppressing fire that full auto weapons do. A hit using a storm weapon with suppressing fire, not on full auto, does not count as two hits.
 
+## Degrees of Success Repaces Damage Dice
+You may replace a single damage dice with the degrees of success you got on your attack roll.
+
 ## Using Astartes/Mortal Weapons
 An astartes can spend a half action, ripping off trigger guards etc from a mortal weapon to make it usable. Doing so will make the weapon standard craftsmanship, unless it's already poor craftsmanship. Mortal weapons used by an astartes count as being inacurate. Aditionally a natural 100 rolled to use a mortal weapon by an astartes will destroy the wargear.
 
