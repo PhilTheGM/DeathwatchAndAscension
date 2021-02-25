@@ -54,7 +54,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 * **Choose 1 of The Following**: 
   * Basic Weapon Training(Flame), Heavy Weapon Training(Flame), Pistol Weapon Training(Flame), Cleanse and Purify
   * Basic Weapon Training(Melta), Heavy Weapon Training(Melta), Pistol Weapon Training(Melta)
-  * Medicae, Medicae +10, Trade(Chimist), Hardy
+  * Medicae, Medicae +10, Chem-Use, Hardy
   * Melee Weapon Training(Power), Swift Attack, Hatred(Any)
   * Drive(Any), Drive(Any) +10, Navigate(Any)
   * Pilot(Any), Pilot(Any) +10, Navigate(Any)
