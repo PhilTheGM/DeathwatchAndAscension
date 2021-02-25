@@ -69,6 +69,7 @@ Characteristics:
 |  200 | Talent | Peer(Middle Class) |
 |  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
+|  700 | Talent | Sprint |
 |  500 | Talent | Untouchable |
 
 ## Arbite Seeker:
@@ -212,11 +213,12 @@ Characteristics:
 |  500 | Talent | Hip Shooting |
 |  500 | Talent | Inspire Wrath |
 |  500 | Talent | Iron Disapline |
-|  500 | Talent | Into the Jaws of Hell |
+|  700 | Talent | Into the Jaws of Hell |
 |  500 | Talent | Jaded |
 |  500 | Talent | Light Sleeper |
 |  500 | Talent | Mimic |
-|  500 | Talent | Psy Rating 1 |
+|  200 | Talent | Psy Rating 1 |
+|  500 | Talent | Psy Rating 2 |
 | *var | Talent | Psychic Power x 4 |
 
 ## Storm Trooper:
