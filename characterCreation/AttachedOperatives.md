@@ -46,6 +46,7 @@ Although the advancment chart is not segregated by rank, operatives rank increas
 
 Members of the Inquisition my select one speciality from the [Inquisition Specialities](specialities/Inquisition.md) document.
 
+
 ### Adepta Sororitas
 
 * +5 to Willpower and either Weapon Skill or Balistic Skill
@@ -57,7 +58,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
   * Melee Weapon Training(Power), Swift Attack, Hatred(Any)
   * Drive(Any), Drive(Any) +10, Navigate(Any)
   * Pilot(Any), Pilot(Any) +10, Navigate(Any)
-* **Any 5 of The Following**: Command, Dodge +10, Intimidate, Jaded, Search, Swim, Flagallent, Hatered(Xenos), Hardy, Tech Use.
+* **Any 5 of The Following**: Command, Charm, Contortionist, Interogation, Lip Reading, Dodge +10, Intimidate, Jaded, Search, Swim, Flagallent, Hatered(Xenos), Hardy, Tech Use.
 * **Hitpoints**: 12
 * **Fate Points**: 1-4=3, 6-8=4, 9-10=5
 * **Equipment**: Bolt Pistol, Sororitas Power Armour, Santified Knife (1d5R, Sanctified), Chaplet Ecclesiasticus (Counts as a Charm), Ring of Sufferage(Counts as a Charm), Copy of the Rule of Sororitas, Soriada, Writing Kit, Shield Robes.
