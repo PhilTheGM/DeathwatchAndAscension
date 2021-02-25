@@ -1,13 +1,17 @@
 # Attached Operatives Psychic Powers
 Follows are the rules for attacked operatives with a Psy-rating. In general Attached operative powers are weaker, but cheeper than those of the librarium. They are also more numerous, allowing operatives to be more flexable.
 
-## Biomancy Powers
+## Psychic Powers
 
-## Divination Powers
+### Biomancy
 
-## Pyromancy Powers
+### Divination
 
-## Telekinesis Powers
+### Pyromancy
 
-## Telaphathy Powers
+### Telekinesis
 
+### Telaphathy
+
+## Assended Psychic Powers
+Here's where I pull in all the assention psychic powers to make the insane Primaris Psycher from Assention!
