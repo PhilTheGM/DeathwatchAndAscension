@@ -19,7 +19,7 @@ Allow quicker creation of characters for Deathwatch and high level Dark Heresy g
 
 ### Character Creation
 
-* [Deathwatch Character Creation Guide](DeathwatchCharacterCreationGuide.md) - An organised guide to creating a Deathwatch, with page number and book references.
+* [Deathwatch Character Creation Guide](characterCreation/AstartesCharacterCreationGuide.md) - An organised guide to creating a Deathwatch, with page number and book references.
 * [Attached Operatives](characterCreation/AttachedOperatives.md) - For those players who don't want to play as Space Marines.
 * Pregenorated Characters - Pregenorated Characters for both Spacemarines and Attached Operative. Allong with some light rules for tweaking them.
 * [Attached Operative Talents](characterCreation/AttachedOperativeTalents.md) - Talents for use by attached operatives. Mostly pulled from other 40K RPG lines, but some homebrewed.
