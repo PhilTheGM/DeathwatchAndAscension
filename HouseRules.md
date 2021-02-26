@@ -11,7 +11,7 @@ The resulting figures may be added to your characteristics in any order you wish
 One chapter from each founding only. Obviously, an unlimited number of choices from unknown foundings are allowable, though only one from each chapter. No more than 2 characters that are successors of the same chapter, or are themselves members of the parent chapter.
 
 ## Gear Swapping
-Where it makes sence for the character, players are allowed to swap out starting wargear (AKA standard issue wargear) with others of simular power level. Of course the GM has final say on what is or isn't an acceptable swap.
+Where it makes sense for the character, players are allowed to swap out starting wargear (AKA standard issue wargear) with others of similar power level. Of course the GM has final say on what is or isn't an acceptable swap.
 
 #### Power Armour Swap Example
 1. You may always choose to take MK7 armour or roll on the table in Rites of Battle.
@@ -29,25 +29,25 @@ Where it makes sence for the character, players are allowed to swap out starting
  * Salamanders Devastator with a multi-melta instead of a heavy bolter.
 
 ## Infinite Reloads
-As an experienced and elite team, you are always considered to have brought enough amunition to get the job done. Unless the secnario dictates otherwise, your character always has another reload for all basic and pistol weapons. Only heavy weapons, grenades, and special amunition require the player to track reloads.
+As an experienced and elite team, you are always considered to have brought enough ammunition to get the job done. Unless the scenario dictates otherwise, your character always has another reload for all basic and pistol weapons. Only heavy weapons, grenades, and special ammunition require the player to track reloads.
 
 ## Storm Weapons can Suppress
 Storm Weapons can be used for suppressing fire, following all the rules for suppressing fire that full auto weapons do. A hit using a storm weapon with suppressing fire, not on full auto, does not count as two hits.
 
-## Degrees of Success Repaces Damage Dice
+## Degrees of Success Replaces Damage Dice
 You may replace a single damage dice with the degrees of success you got on your attack roll.
 
 ## Using Astartes/Mortal Weapons
-An astartes can spend a half action, ripping off trigger guards etc from a mortal weapon to make it usable. Doing so will make the weapon standard craftsmanship, unless it's already poor craftsmanship. Mortal weapons used by an astartes count as being inacurate. Aditionally a natural 100 rolled to use a mortal weapon by an astartes will destroy the wargear.
+An astartes can spend a half action, ripping off trigger guards etc from a mortal weapon to make it usable. Doing so will make the weapon standard craftsmanship, unless it's already poor craftsmanship. Mortal weapons used by an astartes count as being inaccurate. Additionally a natural 100 rolled to use a mortal weapon by an astartes will destroy the wargear.
 
-A mortal can fire an astartes weapon without modification to the weapon. Astartes weapons used by a mortal count as being inacurate. Aditionally a natural 100 rolled to use a mortal weapon by an astartes will inflict a critical wound to a random location of the user. Roll on the impact critical chart against the given location 1d5.
+A mortal can fire an astartes weapon without modification to the weapon. Astartes weapons used by a mortal count as being inaccurate. Additionally a natural 100 rolled to use a mortal weapon by an astartes will inflict a critical wound to a random location of the user. Roll on the impact critical chart against the given location 1d5.
 
 ## Hit Location Chart
-The hit location rules that came with the origional Dark Heresy 2nd edition beta (which were sinse scrapped) are faster and  easier to remember. In this system you take the units dice of your to-hit roll and compaire them to the bellow chart.
+The hit location rules that came with the original Dark Heresy 2nd edition beta (which were sinse scrapped) are faster and  easier to remember. In this system you take the units dice of your to-hit roll and compare them to the below chart.
 1=Head, 2=Left Arm, 3=Right Arm, 4-6=Chest, 7-8=Left Leg, 9-0=Right Leg.
 
 ## Errata
-The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speed up play. They are highly recomended!
+The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speeds up play. They are highly recommended!
 
 ## Conflicting or Missing Rules
 Here and there there are conflicting rules when it comes to certain topics within the Deathwatch rulebooks. The following is a list of rulings to deal with some frequently asked questions:
@@ -58,10 +58,10 @@ Astartes from a chapter made using the custom chapter creation rules presented i
 `Honor The Chapter pg100`
 
 #### Squad Modes for Codex Chapters
-Using the your chapter's background and past as a guide you may choose your chapters squad mode attack and defensive pattern from the tables in Honor the Chapter pg33, if you create a space marine from a codex chapter publisted in Honour The Chapter.
+Using your chapter's background and past as a guide you may choose your chapters squad mode attack and defensive pattern from the tables in Honor the Chapter pg33, if you create a space marine from a codex chapter published in Honour The Chapter.
 
 #### Duplicates of the same Chapter
-The general rule of thumb here is to take the rules from the earlier book. For Exaple the Flesh Tearers are presented in both Rites of Battle and Honour the Chapter. Take the rules in Rights of Battle. Novamarines have the exact same problem, and the exact same solution.
+The general rule of thumb here is to take the rules from the earlier book. For example the Flesh Tearers are presented in both Rites of Battle and Honour the Chapter. Take the rules in Rights of Battle. Novamarines have the exact same problem, and the exact same solution.
 
 #### First Founding Chapters with less Squad Modes/Solo Modes/Psychic Powers that the Storm Wardens
-I am aware of this issue, but I have never heard a complaint about it. If and when a complaint does arrise I will try to come to a simple solution and document it here.
+I am aware of this issue, but I have never heard a complaint about it. If and when a complaint does arise I will try to come to a simple solution and document it here.
