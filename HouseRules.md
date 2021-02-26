@@ -50,7 +50,7 @@ The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speeds up 
 Here and there there are conflicting rules when it comes to certain topics within the Deathwatch rulebooks. The following is a list of rulings to deal with some frequently asked questions:
 
 #### Astarties Past Deeds for Custom Made Chapters
-Astartes from a chapter made using the custom chapter creation rules presented in Rites of Battle may have past selected from the following:
+Astartes from a chapter made using the custom chapter creation rules presented in Rites of Battle may have past selected from the following:  
 ![Codex Pasts](images/AstartesPasts.png "Codex Pasts")
 `Honor The Chapter pg100`
 
