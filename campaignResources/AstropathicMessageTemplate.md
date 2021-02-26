@@ -10,3 +10,6 @@
 
 <Standard contents>
 ```  
+
+![Standard Imperial Date Format](https://static.wikia.nocookie.net/warhammer40k/images/1/11/Imperial_Date_System_example.jpg)  
+[Imperial Date Format Wiki Link](https://warhammer40k.fandom.com/wiki/Imperial_Dating_System)
