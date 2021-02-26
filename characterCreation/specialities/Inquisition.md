@@ -6,7 +6,7 @@ As a desperado you can blend with the crowd in a way that would be impossible fo
 
 * +5 BS or Ag
 * You Gain Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), * Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
+* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * Equipment:
@@ -55,7 +55,8 @@ Characteristics:
 |  400 |  Skill | Inquiry +10 |
 |  400 |  Skill | Inquiry +20 |
 |  600 | Talent | Peer(Deathwatch) |
-| 1000 | Talent | Deathwatch Indoctrination |
+| 1200 | Talent | Deathwatch Indoctrination |
+|  500 | Talent | Double Tap |
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
 |  500 | Talent | Quick Draw |
