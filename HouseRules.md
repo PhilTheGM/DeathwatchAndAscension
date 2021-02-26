@@ -37,7 +37,7 @@ Storm Weapons can be used for suppressing fire, following all the rules for supp
 ## Using Astartes/Mortal Weapons
 An astartes can spend a half action, ripping off trigger guards etc from a mortal weapon to make it usable. Doing so will make the weapon standard craftsmanship, unless it's already poor craftsmanship. Mortal weapons used by an astartes count as being inaccurate. Additionally a natural 100 rolled to use a mortal weapon by an astartes will destroy the wargear.
 
-A mortal can fire an astartes weapon without modification to the weapon. Astartes weapons used by a mortal count as being inaccurate. Additionally a natural 100 rolled to use a mortal weapon by an astartes will inflict a critical wound to a random location of the user. Roll on the impact critical chart against the given location 1d5.
+A mortal can fire an astartes weapon without modification to the weapon. Astartes weapons used by a mortal count as being inaccurate. Additionally a natural 100 rolled to use an astartes weapon by a mortal will inflict a critical wound to a random location of the user. Roll on the impact critical chart against the given location 1d5.
 
 ## Hit Location Chart
 The hit location rules that came with the original Dark Heresy 2nd edition beta (which were sinse scrapped) are faster and  easier to remember. In this system you take the units dice of your to-hit roll and compare them to the below chart.
