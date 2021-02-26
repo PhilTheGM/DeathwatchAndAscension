@@ -1,3 +1,4 @@
+```
 + + + + + + + + + + + + + +TRANSMITTED: <location transmitted from> (eg Watch Station CX3119)
 + + + + + + + + + + + + + + +DESTINATION: <location transmitted to> (eg The Emperor's Word, Jericho Reach)
 + + + + + + + + + + + + + + + + + + + +DATE: <date in standard 40K format> (eg8 610 817.M41)
@@ -8,4 +9,4 @@
 + + + + + + + + + + + + + + + + +THOUGHT: <Grim dark phrase> (eg Knowledge is power. Guard it well)
 
 <Standard contents>
-  
+```  
