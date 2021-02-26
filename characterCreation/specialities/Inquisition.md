@@ -2,13 +2,13 @@
 These specialities are available to [Attached Operatives](../AttachedOperatives.md) from the Inquisition organisation.
 
 ## Desperado
-As a desperado you can blend with the croud in a way that would be imposible for a Space Marine under any circumstances. He has the connections to get information that would be obscured to others, and the skill to win any bar room shoot out.
+As a desperado you can blend with the crowd in a way that would be impossible for a Space Marine under any circumstances. He has the connections to get information that would be obscured to others, and the skill to win any bar room shootout.
 
 * +5 BS or Ag
 * You Gain Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), * Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Slight of Hand +10
+* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), * Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
 * Once per round you can fire a pistol as a standard attack as part of your move action.
-* You may spend a fate point to automatically succeed on a Concelement, Disguise, Dodge, Security, Silent move, or Slight of hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
+* You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * Equipment:
   * Your reinforced leathers/Plate reinforced uniform/Salvaged Guard uniform counts as 4AC all
   * You can choose 1 from the following list:
@@ -17,9 +17,9 @@ As a desperado you can blend with the croud in a way that would be imposible for
     * 1 Bolt pistol & 3 frag or krak grenades
     * 1 Plasma pistol & 1 stub gun or stub automatic
   * You can choose 1 from the following list:
-    * Autogun with fire selector, and 2 clips from the following list: Ignis Rounds, Penitrator Rounds (Rights of Battle pg140)
+    * Autogun with fire selector, and 2 clips from the following list: Ignis Rounds, Penetrator Rounds (Rights of Battle pg140)
     * Bolt gun
-    * Combat shotgun with fire selector, and 2 clips from the following list: Breaching Rounds, Ignis Rounds, Penitrator Rounds, Shredder Rounds, Slug Rounds (Rights of Battle pg140)
+    * Combat shotgun with fire selector, and 2 clips from the following list: Breaching Rounds, Ignis Rounds, Penetrator Rounds, Shredder Rounds, Slug Rounds (Rights of Battle pg140)
     * 3 frag of krak grenades or fire bombs
     * 1 web grenade
     
@@ -46,11 +46,11 @@ Characteristics:
 |  400 |  Skill | Security +0 |
 |  400 |  Skill | Security +10 |
 |  400 |  Skill | Security +20 |
-|  500 | Talent | Tallented(Security) |
-|  200 |  Skill | Slight of Hand |
-|  200 |  Skill | Slight of Hand +10 |
-|  400 |  Skill | Slight of Hand +20 |
-|  500 | Talent | Talented(Slight of Hand) |
+|  500 | Talent | Talented(Security) |
+|  200 |  Skill | Sleight of Hand |
+|  200 |  Skill | Sleight of Hand +10 |
+|  400 |  Skill | Sleight of Hand +20 |
+|  500 | Talent | Talented(Sleight of Hand) |
 |  400 |  Skill | Inquiry |
 |  400 |  Skill | Inquiry +10 |
 |  400 |  Skill | Inquiry +20 |
@@ -109,7 +109,7 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
-## Ordos Malius Vanquisher:
+## Ordos Malleus Vanquisher:
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
@@ -128,7 +128,7 @@ Characteristics:
 |------|------|---------------------|
 |  |  |  |
 
-## Ordos Malius Pyroclast:
+## Ordos Malleus Pyroclast:
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
@@ -170,8 +170,8 @@ Characteristics:
 One of the few mortals that can speak to an astarties as an equal, you are prized for your insight, connections and knowledge of the unknowable. Away from the kill team you hold athority that is rivaled by few. Within the kill team your opinion and influence are highly valued.
 
 * +5 Int or Wp
-* You Gain Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scolastic (Any 1), Lore: Forbidden(Any 1)
-* Pick 7 of the following: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Forsight, Infused Knowledge.
+* You Gain Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scholastic (Any 1), Lore: Forbidden(Any 1)
+* Pick 7 of the following: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
 * Equipment:
   * Your your inquisitorial uniform counts as a suit of carapace (6AC all)
   * You can choose 2 pistol, melee or exotic weapon. These may be astartes weapons.
@@ -182,7 +182,7 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
     * Tools
     * Cybernetics
 * Once per game you may count as having any 1 skill or talent for the sake of a single test.
-* You may spend a fate point to automatically succeed an interogation test with number of degrees of success equal to his Willpower Bonus. At the GM's discression his may be used to interogate characters that would not normally be allowed to be interogated.
+* You may spend a fate point to automatically succeed an interrogation test with a number of degrees of success equal to his Willpower Bonus. At the GM's discretion this may be used to interrogate characters that would not normally be allowed to be interrogated.
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
@@ -212,7 +212,7 @@ Characteristics:
 |  700 | Talent | Fearless |
 |  500 | Talent | Hip Shooting |
 |  500 | Talent | Inspire Wrath |
-|  500 | Talent | Iron Disapline |
+|  500 | Talent | Iron Discipline |
 |  700 | Talent | Into the Jaws of Hell |
 |  500 | Talent | Jaded |
 |  500 | Talent | Light Sleeper |
