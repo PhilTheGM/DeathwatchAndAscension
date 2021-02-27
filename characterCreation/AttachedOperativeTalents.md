@@ -4,8 +4,8 @@
 
 ### Hard Target
 
-### Naturally Intimidating
-You can use `S` instead of `Fel` for intimidation tests.
+### Terrifying Threats
+You can use `Fel` instead of `S` for intimidation tests.
 
 ### Unremarkable
 
