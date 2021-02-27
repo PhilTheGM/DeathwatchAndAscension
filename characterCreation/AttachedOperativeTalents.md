@@ -4,7 +4,7 @@
 
 ### Hard Target
 
-### Terrifying Threats
+### Terrifying Truths
 You can use `Fel` instead of `S` for intimidation tests.
 
 ### Unremarkable
