@@ -5,11 +5,11 @@ These specialities are available to [Attached Operatives](../AttachedOperatives.
 As a desperado you can blend with the crowd in a way that would be impossible for a Space Marine under any circumstances. He has the connections to get information that would be obscured to others, and the skill to win any bar room shootout.
 
 * +5 BS or Ag
-* You Gain Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* Pick 7 of the following: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
+* **You Gain**: Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
+* **Pick 7 of the following**: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
-* Equipment:
+* **Equipment**:
   * Your reinforced leathers/Plate reinforced uniform/Salvaged Guard uniform counts as 4AC all
   * You can choose 1 from the following list:
     * 2 x Bolt pistols
@@ -171,9 +171,9 @@ Characteristics:
 One of the few mortals that can speak to an astarties as an equal, you are prized for your insight, connections and knowledge of the unknowable. Away from the kill team you hold athority that is rivaled by few. Within the kill team your opinion and influence are highly valued.
 
 * +5 Int or Wp
-* You Gain Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scholastic (Any 1), Lore: Forbidden(Any 1)
-* Pick 7 of the following: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
-* Equipment:
+* **You Gain**: Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scholastic (Any 1), Lore: Forbidden(Any 1)
+* **Pick 7 of the following**: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
+* **Equipment**:
   * Your your inquisitorial uniform counts as a suit of carapace (6AC all)
   * You can choose 2 pistol, melee or exotic weapon. These may be astartes weapons.
   * You may choose any 1 grenade. 
