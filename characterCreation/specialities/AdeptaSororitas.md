@@ -11,7 +11,7 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 * You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
 * **Equipment**:
   * You can choose 1 from the following list:
-    * Bolt pistol, 4 Frag grenades, 4 Krak grenades, 1 other grenade of your choice
+    * Bolt pistol, 4 Frag grenades, 4 Krak grenades, 1 melta bomb. Both og the seraphims bolt pistols recieve the reliable quality
     * 2 Seraphim Hand Flamers, 2 Frag grenades, 2 Krak grenades
     * 2 Seraphim Fusion pistols
     * 1 Powersword, 1 Frag grenade, 1 Krak grenade
@@ -19,15 +19,15 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |  200 |   |   |   |
-|  WS  |  500 |   |   |   |
-|   S  |  500 |   |   |   |
-|   T  |  200 |   |   |   |
-|  Ag  |  200 |   |   |   |
-|  Int |  750 |   |   |   |
-|  Per |  750 |   |   |   |
-|   Wp |  500 |   |   |   |
-|  Fel |  750 |   |   |   |
+|  BS  |  200 |  500 | 1000 | 1500 |
+|  WS  |  500 | 1000 | 1500 | 2000 |
+|   S  |  500 | 1000 | 1500 | 2000 |
+|   T  |  200 |  500 | 1000 | 1500 |
+|  Ag  |  200 |  500 | 1000 | 1500 |
+|  Int |  750 | 1500 | 2000 | 5000 |
+|  Per |  750 | 1500 | 2000 | 5000 |
+|   Wp |  500 | 1000 | 1500 | 2000 |
+|  Fel |  750 | 1500 | 2000 | 5000 |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
