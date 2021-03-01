@@ -28,3 +28,4 @@ Allow quicker creation of characters for Deathwatch and high level Dark Heresy g
 * [The Origional Deathwatch Character Creation Guide](http://robf.com.au/2017/01/15/process-document-deathwatch-character-creation-guide/)
 * [darkheresy.fandom.com](https://darkheresy.fandom.com)
 * [www.40krpgtools.com](http://www.40krpgtools.com/)
+* [dark-heresy-rp.fandom.com](https://dark-heresy-rp.fandom.com)
