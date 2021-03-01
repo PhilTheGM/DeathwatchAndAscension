@@ -10,6 +10,7 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 * Once per combat, as a reaction, you can declare you have Unnatural Toughness(3) for a full turn. Warp based attacks (including those made by deamons) will count you you as having Unnatural Toughness(4).
 * You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
 * **Equipment**:
+  * Seraphim Jump Pack 
   * You can choose 1 from the following list:
     * Bolt pistol, 4 Frag grenades, 4 Krak grenades, 1 melta bomb. Both og the seraphims bolt pistols recieve the reliable quality
     * 2 Seraphim Hand Flamers, 2 Frag grenades, 2 Krak grenades
