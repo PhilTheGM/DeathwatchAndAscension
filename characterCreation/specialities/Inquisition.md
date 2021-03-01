@@ -93,7 +93,7 @@ Characteristics:
 |  200 |  Skill | Wrangling +10 |
 |  600 | Talent | Peer(Deathwatch) |
 | 1200 | Talent | Deathwatch Indoctrination |
-|  500 | Talent | Double Tap |
+|  500 | Talent | Dual Shot |
 |  400 | Talent | Gunslinger |
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
