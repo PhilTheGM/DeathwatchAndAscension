@@ -20,7 +20,7 @@ As a desperado you can blend with the crowd in a way that would be impossible fo
     * Autogun with fire selector, and 2 clips from the following list: Ignis Rounds, Penetrator Rounds (Rights of Battle pg140)
     * Bolt gun
     * Combat shotgun with fire selector, and 2 clips from the following list: Breaching Rounds, Ignis Rounds, Penetrator Rounds, Shredder Rounds, Slug Rounds (Rights of Battle pg140)
-    * 3 frag of krak grenades or fire bombs
+    * 3 frag grenades or 3 krak grenades or 3 fire bombs
     * 1 web grenade
     
 Characteristics:
