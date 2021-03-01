@@ -81,6 +81,7 @@ Characteristics:
 |  |  | Cleanse and Purify |
 |  |  | Combat Master |
 |  |  | Counter Attack |
+|  |  | Deathwatch Indoctrination |
 |  |  | Die Hard |
 |  |  | Gunslinger |
 |  500 | Talent | Hard Target |
@@ -105,6 +106,9 @@ Characteristics:
 |  |  | Take Down |
 |  |  | Target Selection |
 |  |  | True Grit |
+| 300 |  | Faith Talent x 3 |
+| 500 |  | Faith Talent x 4 |
+| 800 |  | Faith Talent |
 
 ## Celestian
 Characteristics:
