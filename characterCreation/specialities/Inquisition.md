@@ -38,8 +38,15 @@ Characteristics:
 
 | Cost |  Type  | Advance |
 |------|--------|---------|
+|  500 |  Skill | Acrobatics |
+|  300 |  Skill | Awareness |
+|  400 |  Skill | Awareness +10 |
+|  500 |  Skill | Awareness +20 |
 |  200 |  Skill | Carouse |
 |  400 |  Skill | Carouse +10 |
+|  400 |  Skill | Charm |
+|  500 |  Skill | Chem Use |
+|  400 |  Skill | Climb |
 |  200 |  Skill | Concealment |
 |  200 |  Skill | Concealment +10 |
 |  400 |  Skill | Concealment +20 |
@@ -47,7 +54,7 @@ Characteristics:
 |  400 |  Skill | Disguise +10 |
 |  400 |  Skill | Decieve |
 |  400 |  Skill | Decieve +10 |
-|  400 |  Skill | Decieve +20|
+|  400 |  Skill | Decieve +20 |
 |  400 | Talent | Talented(Decieve) |
 |  200 |  Skill | Dodge |
 |  200 |  Skill | Dodge +10 |
@@ -57,13 +64,24 @@ Characteristics:
 |  200 |  Skill | Gamble |
 |  200 |  Skill | Gamble +10 |
 |  400 |  Skill | Gamble +20 |
+|  400 |  Skill | Inquiry |
+|  400 |  Skill | Inquiry +10 |
+|  400 |  Skill | Inquiry +20 |
 |  400 |  Skill | Interogation |
+|  400 |  Skill | Intimidate |
+|  500 |  Skill | Intimidate +10 |
 |  400 |  Skill | Lip Reading |
 |  400 |  Skill | Lip Reading +10 |
+|  700 |  Skill | Logic |
+|  500 |  Skill | Lore: Common(Jericho Reach) |
+|  500 |  Skill | Lore: Scolastic(Imperium) |
+|  700 |  Skill | Lore: Forbidden(Judgement) |
+|  500 |  Skill | Medicae |
+|  400 |  Skill | Navigation(Surface) |
 |  400 |  Skill | Pilot(Flyer) |
-|  400 |  Skill | Search |
 |  400 |  Skill | Scrutiny |
 |  400 |  Skill | Scrutiny +10 |
+|  400 |  Skill | Search |
 |  400 |  Skill | Security |
 |  400 |  Skill | Security +10 |
 |  400 |  Skill | Security +20 |
@@ -83,10 +101,6 @@ Characteristics:
 |  500 |  Skill | Speak Language(Any) |
 |  400 |  Skill | Survival |
 |  200 |  Skill | Swim |
-|  400 |  Skill | Inquiry |
-|  400 |  Skill | Inquiry +10 |
-|  400 |  Skill | Inquiry +20 |
-|  400 |  Skill | Navigation(Surface) |
 |  700 |  Skill | Tech-Use |
 |  500 |  Skill | Tracking |
 |  200 |  Skill | Wrangling |
@@ -109,6 +123,7 @@ Characteristics:
 |  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
 |  700 | Talent | Sprint |
+|  200 | Talent | Terifying Truths |
 |  500 | Talent | Untouchable |
 
 ## Arbite Seeker:
