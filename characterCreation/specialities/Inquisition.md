@@ -6,7 +6,7 @@ As a desperado you can blend with the crowd in a way that would be impossible fo
 
 * +5 BS or Ag
 * **You Gain**: Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* **Pick 7 of the following**: Ambidextrous, Basic Weapon Training(bolt or flame), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
+* **Pick 7 of the following**: Ambidextrous, Basic Weapon Training(bolt), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Gunslinger, Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * **Equipment**:
@@ -38,25 +38,63 @@ Characteristics:
 
 | Cost |  Type  | Advance |
 |------|--------|---------|
+|  200 |  Skill | Carouse |
+|  400 |  Skill | Carouse +10 |
+|  200 |  Skill | Concealment |
+|  200 |  Skill | Concealment +10 |
+|  400 |  Skill | Concealment +20 |
 |  400 |  Skill | Disguise |
 |  400 |  Skill | Disguise +10 |
+|  400 |  Skill | Decieve |
+|  400 |  Skill | Decieve +10 |
+|  400 |  Skill | Decieve +20|
+|  400 | Talent | Talented(Decieve) |
 |  200 |  Skill | Dodge |
 |  200 |  Skill | Dodge +10 |
 |  400 |  Skill | Dodge +20 |
-|  400 |  Skill | Security +0 |
+|  400 |  Skill | Drive(Surface) |
+|  400 |  Skill | Drive(Skimmer) |
+|  200 |  Skill | Gamble |
+|  200 |  Skill | Gamble +10 |
+|  400 |  Skill | Gamble +20 |
+|  400 |  Skill | Interogation |
+|  400 |  Skill | Lip Reading |
+|  400 |  Skill | Lip Reading +10 |
+|  400 |  Skill | Pilot(Flyer) |
+|  400 |  Skill | Search |
+|  400 |  Skill | Scrutiny |
+|  400 |  Skill | Scrutiny +10 |
+|  400 |  Skill | Security |
 |  400 |  Skill | Security +10 |
 |  400 |  Skill | Security +20 |
 |  500 | Talent | Talented(Security) |
+|  200 |  Skill | Shadowing |
+|  200 |  Skill | Shadowing +10 |
+|  400 |  Skill | Shadowing +20 |
+|  500 |  Skill | Talented(Shadowing) |
+|  200 |  Skill | Silent Move |
+|  200 |  Skill | Silent Move +10 |
+|  400 |  Skill | Silent Move +20 |
+|  500 |  Skill | Talented(Silent Move) |
 |  200 |  Skill | Sleight of Hand |
 |  200 |  Skill | Sleight of Hand +10 |
 |  400 |  Skill | Sleight of Hand +20 |
 |  500 | Talent | Talented(Sleight of Hand) |
+|  500 |  Skill | Speak Language(Any) |
+|  400 |  Skill | Survival |
+|  200 |  Skill | Swim |
 |  400 |  Skill | Inquiry |
 |  400 |  Skill | Inquiry +10 |
 |  400 |  Skill | Inquiry +20 |
+|  400 |  Skill | Navigation(Surface) |
+|  700 |  Skill | Tech-Use |
+|  500 |  Skill | Tracking |
+|  200 |  Skill | Wrangling |
+|  200 |  Skill | Wrangling +10 |
 |  600 | Talent | Peer(Deathwatch) |
 | 1200 | Talent | Deathwatch Indoctrination |
 |  500 | Talent | Double Tap |
+|  400 | Talent | Gunslinger |
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
 |  500 | Talent | Quick Draw |
