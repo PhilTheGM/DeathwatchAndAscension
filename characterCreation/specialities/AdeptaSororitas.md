@@ -8,8 +8,8 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 * **You Gain**: Pilot(Personal), Tactics(Assault), Ambidexterous, Two Weapon Wielder(Balistic), Pistol Weapon Training(Flame or Melta)
 * **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking,  Hatred(Any), Leap Up, Assasin Strike, Two Weapon Wielder(Melee), True Grit
 * Once per combat, as a reaction, you can declare you have Unnatural Toughness(3) for a full turn. Warp based attacks (including those made by deamons) will count you you as having Unnatural Toughness(4).
-* You may spend a fate point to act in the suprise round of a combat. If you do so you yourself do not count as being suprised.
-* Equipment:
+* You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
+* **Equipment**:
   * You can choose 1 from the following list:
     * Bolt pistol, 4 Frag grenades, 4 Krak grenades, 1 other grenade of your choice
     * 2 Seraphim Hand Flamers, 2 Frag grenades, 2 Krak grenades
