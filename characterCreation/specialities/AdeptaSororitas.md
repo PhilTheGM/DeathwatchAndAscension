@@ -77,39 +77,39 @@ Characteristics:
 |  500 |  Skill | Tech-Use |
 |  400 |  Skill | Tracking |
 |  | Talent | Abhore the Witch |
-|  | Talent | Assasin Strike, Gunslinger |
-|  | Talent | Catfall |
-|  | Talent | Cleanse and Purify |
-|  | Talent | Combat Master |
-|  | Talent | Counter Attack |
-|  | Talent | Deathwatch Indoctrination |
-|  | Talent | Die Hard |
+|  500 | Talent | Assasin Strike |
+|  400 | Talent | Catfall |
+|  500 | Talent | Cleanse and Purify |
+|  500 | Talent | Combat Master |
+|  500 | Talent | Counter Attack |
+| 1200 | Talent | Deathwatch Indoctrination |
+|  700 | Talent | Die Hard |
 |  | Talent | Gunslinger |
 |  500 | Talent | Hard Target |
-|  | Talent | Hatred(Any) |
-|  | Talent | Hatred(Ab-Humans) |
-|  | Talent | Hatred(Xenos) |
+|  400 | Talent | Hatred(Any) |
+|  300 | Talent | Hatred(Ab-Humans) |
+|  500 | Talent | Hatred(Xenos) |
 |  700 | Talent | Hip Shooting |
 | 1000 | Talent | Fearless |
 |  600 | Talent | Independant Targetting |
-|  | Talent | Leap Up |
+|  600 | Talent | Leap Up |
 |  800 | Talent | Lightning Attack |
 |  400 | Talent | Lightning Reflexes |
-|  | Talent | Paranoia |
-|  | Talent | Peer(Deathwatch) |
-|  | Talent | Resistance(Psychic Powers) |
+|  600 | Talent | Paranoia |
+|  400 | Talent | Peer(Deathwatch) |
+|  400 | Talent | Resistance(Psychic Powers) |
 |  200 | Talent | Sound Constitution x 4 |
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  500 | Talent | Swift Attack |
 |  | Talent | Scurge of Heretics |
 |  | Talent | Storm of Iron |
-|  | Talent | Take Down |
+|  400 | Talent | Take Down |
 |  | Talent | Target Selection |
-|  | Talent | True Grit |
-| 300 | Talent | Faith Talent x 3 |
-| 500 | Talent | Faith Talent x 4 |
-| 800 | Talent | Faith Talent |
+|  700 | Talent | True Grit |
+|  300 | Talent | Faith Talent x 3 |
+|  500 | Talent | Faith Talent x 4 |
+|  800 | Talent | Faith Talent |
 
 ## Celestian
 
@@ -129,15 +129,15 @@ Characteristics:
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+|  BS  |  200 |   |   |   |
+|  WS  |  200 |   |   |   |
+|   S  |  500 |   |   |   |
+|   T  |  500 |   |   |   |
+|  Ag  |  500 |   |   |   |
+|  Int |  500 |   |   |   |
+|  Per |  500 |   |   |   |
+|   Wp |  500 |   |   |   |
+|  Fel |  500 |   |   |   |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
