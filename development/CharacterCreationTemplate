@@ -8,6 +8,21 @@ Flavor
 * You may spend a fate point to .
 * **Equipment**:
 
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
+
+| Cost | Type |       Advance       |
+|------|------|---------------------|
 |   |  Skill | Acrobatics |
 |   |  Skill | Awreness |
 |   |  Skill | Carouse |
