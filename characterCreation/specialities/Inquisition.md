@@ -271,9 +271,9 @@ Characteristics:
 |  500 | Talent | Jaded |
 |  500 | Talent | Light Sleeper |
 |  500 | Talent | Mimic |
-|  200 | Talent | Psy Rating 1 |
-|  500 | Talent | Psy Rating 2 |
-| *var | Talent | Psychic Power x 4 |
+|  200 | Talent | Psy Rating |
+|  500 | Talent | Psy Rating x 2 |
+| \*var | Talent | Psychic Power x 4 |
 
 ## Storm Trooper:
 
