@@ -32,50 +32,50 @@ Characteristics:
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
-|  |  Skill | Acrobatics |
-|  |  Skill | Acrobatics +10 |
-|  |  Skill | Acrobatics +20 |
-|  |  Skill | Awareness |
-|  |  Skill | Awareness +10 |
-|  |  Skill | Charm |
-|  |  Skill | Climb |
-|  |  Skill | Climb +10 |
-|  |  Skill | Command |
-|  |  Skill | Concealment |
-|  |  Skill | Contortionist |
-|  |  Skill | Contortionist +10 |
-|  |  Skill | Dodge |
-|  |  Skill | Dodge +10 |
-|  |  Skill | Dodge +20 |
-|  |  Skill | Drive(Any) |
-|  |  Skill | Drive(Any) +10 |
-|  |  Skill | Talented(Dodge) |
-|  |  Skill | Inquiry |
-|  |  Skill | Interogation |
-|  |  Skill | Intimidate |
-|  |  Skill | Intimidate +10 |
-|  |  Skill | Literacy +10 |
-|  |  Skill | Lore: Common(Eclesiarchy) +10 |
-|  |  Skill | Lore: Common(Imperial Creed) +10  |
-|  |  Skill | Lore: Scolastic(Philosophy) +10  |
-|  |  Skill | Lore: Forbidden(Heresy) +10 |
-|  |  Skill | Lore: Forbidden(Mutants) +10 |
-|  |  Skill | Lore: Forbidden(Psykers) +10 |
-|  |  Skill | Medicae |
-|  |  Skill | Navigate(Surface) |
-|  |  Skill | Pilot(Personal) +10 |
-|  |  Skill | Pilot(Personal) +20  |
-|  |  Skill | Talented(Pilot(Personal))  |
-|  |  Skill | Pilot(Flyers) |
-|  |  Skill | Pilot(Flyers) +10 |
-|  |  Skill | Scrutiny |
-|  |  Skill | Search |
-|  |  Skill | Shadowing |
-|  |  Skill | Silent Move |
-|  |  Skill | Survival |
-|  |  Skill | Tactics(Any) |
-|  |  Skill | Tech-Use |
-|  |  Skill | Tracking |
+|  200 |  Skill | Acrobatics |
+|  200 |  Skill | Acrobatics +10 |
+|  400 |  Skill | Acrobatics +20 |
+|  200 |  Skill | Awareness |
+|  200 |  Skill | Awareness +10 |
+|  400 |  Skill | Charm |
+|  200 |  Skill | Climb |
+|  200 |  Skill | Climb +10 |
+|  500 |  Skill | Command |
+|  400 |  Skill | Concealment |
+|  200 |  Skill | Contortionist |
+|  400 |  Skill | Contortionist +10 |
+|  200 |  Skill | Dodge |
+|  200 |  Skill | Dodge +10 |
+|  400 |  Skill | Dodge +20 |
+|  700 | Talent | Talented(Dodge) |
+|  200 |  Skill | Drive(Any) |
+|  400 |  Skill | Drive(Any) +10 |
+|  500 |  Skill | Inquiry |
+|  500 |  Skill | Interogation |
+|  200 |  Skill | Intimidate |
+|  400 |  Skill | Intimidate +10 |
+|  400 |  Skill | Literacy +10 |
+|  500 |  Skill | Lore: Common(Eclesiarchy) +10 |
+|  500 |  Skill | Lore: Common(Imperial Creed) +10  |
+|  500 |  Skill | Lore: Scolastic(Philosophy) +10  |
+|  700 |  Skill | Lore: Forbidden(Heresy) +10 |
+|  500 |  Skill | Lore: Forbidden(Mutants) +10 |
+|  700 |  Skill | Lore: Forbidden(Psykers) +10 |
+|  500 |  Skill | Medicae |
+|  400 |  Skill | Navigate(Surface) |
+|  200 |  Skill | Pilot(Personal) +10 |
+|  200 |  Skill | Pilot(Personal) +20  |
+|  400 |  Skill | Talented(Pilot(Personal))  |
+|  200 |  Skill | Pilot(Flyers) |
+|  400 |  Skill | Pilot(Flyers) +10 |
+|  500 |  Skill | Scrutiny |
+|  400 |  Skill | Search |
+|  400 |  Skill | Shadowing |
+|  200 |  Skill | Silent Move |
+|  400 |  Skill | Survival |
+|  400 |  Skill | Tactics(Any) |
+|  500 |  Skill | Tech-Use |
+|  400 |  Skill | Tracking |
 |  | Talent | Abhore the Witch |
 |  | Talent | Assasin Strike, Gunslinger |
 |  | Talent | Catfall |
@@ -126,6 +126,18 @@ Characteristics:
     * X Flameer, 2 Frag grenades, 2 Krak grenades.
     * Meltagun
 
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
