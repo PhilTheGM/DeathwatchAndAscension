@@ -32,101 +32,154 @@ Characteristics:
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
-|  |  | Acrobatics |
-|  |  | Acrobatics +10 |
-|  |  | Acrobatics +20 |
-|  |  | Awareness |
-|  |  | Awareness +10 |
-|  |  | Charm |
-|  |  | Climb |
-|  |  | Climb +10 |
-|  |  | Command |
-|  |  | Concealment |
-|  |  | Contortionist |
-|  |  | Contortionist +10 |
-|  |  | Dodge |
-|  |  | Dodge +10 |
-|  |  | Dodge +20 |
-|  |  | Drive(Any) |
-|  |  | Drive(Any) +10 |
-|  |  | Talented(Dodge) |
-|  |  | Inquiry |
-|  |  | Interogation |
-|  |  | Intimidate |
-|  |  | Intimidate +10 |
-|  |  | Literacy +10 |
-|  |  | Lore: Common(Eclesiarchy) +10 |
-|  |  | Lore: Common(Imperial Creed) +10  |
-|  |  | Lore: Scolastic(Philosophy) +10  |
-|  |  | Lore: Forbidden(Heresy) +10 |
-|  |  | Lore: Forbidden(Mutants) +10 |
-|  |  | Lore: Forbidden(Psykers) +10 |
-|  |  | Medicae |
-|  |  | Navigate(Surface) |
-|  |  | Pilot(Personal) +10 |
-|  |  | Pilot(Personal) +20  |
-|  |  | Talented(Pilot(Personal))  |
-|  |  | Pilot(Flyers) |
-|  |  | Pilot(Flyers) +10 |
-|  |  | Scrutiny |
-|  |  | Search |
-|  |  | Shadowing |
-|  |  | Silent Move |
-|  |  | Survival |
-|  |  | Tactics(Any) |
-|  |  | Tech-Use |
-|  |  | Tracking |
-|  |  | Abhore the Witch |
-|  |  | Assasin Strike, Gunslinger |
-|  |  | Catfall |
-|  |  | Cleanse and Purify |
-|  |  | Combat Master |
-|  |  | Counter Attack |
-|  |  | Deathwatch Indoctrination |
-|  |  | Die Hard |
-|  |  | Gunslinger |
+|  |  Skill | Acrobatics |
+|  |  Skill | Acrobatics +10 |
+|  |  Skill | Acrobatics +20 |
+|  |  Skill | Awareness |
+|  |  Skill | Awareness +10 |
+|  |  Skill | Charm |
+|  |  Skill | Climb |
+|  |  Skill | Climb +10 |
+|  |  Skill | Command |
+|  |  Skill | Concealment |
+|  |  Skill | Contortionist |
+|  |  Skill | Contortionist +10 |
+|  |  Skill | Dodge |
+|  |  Skill | Dodge +10 |
+|  |  Skill | Dodge +20 |
+|  |  Skill | Drive(Any) |
+|  |  Skill | Drive(Any) +10 |
+|  |  Skill | Talented(Dodge) |
+|  |  Skill | Inquiry |
+|  |  Skill | Interogation |
+|  |  Skill | Intimidate |
+|  |  Skill | Intimidate +10 |
+|  |  Skill | Literacy +10 |
+|  |  Skill | Lore: Common(Eclesiarchy) +10 |
+|  |  Skill | Lore: Common(Imperial Creed) +10  |
+|  |  Skill | Lore: Scolastic(Philosophy) +10  |
+|  |  Skill | Lore: Forbidden(Heresy) +10 |
+|  |  Skill | Lore: Forbidden(Mutants) +10 |
+|  |  Skill | Lore: Forbidden(Psykers) +10 |
+|  |  Skill | Medicae |
+|  |  Skill | Navigate(Surface) |
+|  |  Skill | Pilot(Personal) +10 |
+|  |  Skill | Pilot(Personal) +20  |
+|  |  Skill | Talented(Pilot(Personal))  |
+|  |  Skill | Pilot(Flyers) |
+|  |  Skill | Pilot(Flyers) +10 |
+|  |  Skill | Scrutiny |
+|  |  Skill | Search |
+|  |  Skill | Shadowing |
+|  |  Skill | Silent Move |
+|  |  Skill | Survival |
+|  |  Skill | Tactics(Any) |
+|  |  Skill | Tech-Use |
+|  |  Skill | Tracking |
+|  | Talent | Abhore the Witch |
+|  | Talent | Assasin Strike, Gunslinger |
+|  | Talent | Catfall |
+|  | Talent | Cleanse and Purify |
+|  | Talent | Combat Master |
+|  | Talent | Counter Attack |
+|  | Talent | Deathwatch Indoctrination |
+|  | Talent | Die Hard |
+|  | Talent | Gunslinger |
 |  500 | Talent | Hard Target |
-|  |  | Hatred(Any) |
-|  |  | Hatred(Ab-Humans) |
-|  |  | Hatred(Xenos) |
+|  | Talent | Hatred(Any) |
+|  | Talent | Hatred(Ab-Humans) |
+|  | Talent | Hatred(Xenos) |
 |  700 | Talent | Hip Shooting |
-| 1000 |  | Fearless |
+| 1000 | Talent | Fearless |
 |  600 | Talent | Independant Targetting |
-|  |  | Leap Up |
+|  | Talent | Leap Up |
 |  800 | Talent | Lightning Attack |
 |  400 | Talent | Lightning Reflexes |
-|  |  | Paranoia |
-|  |  | Peer(Deathwatch) |
-|  |  | Resistance(Psychic Powers) |
+|  | Talent | Paranoia |
+|  | Talent | Peer(Deathwatch) |
+|  | Talent | Resistance(Psychic Powers) |
 |  200 | Talent | Sound Constitution x 4 |
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  500 | Talent | Swift Attack |
-|  |  | Scurge of Heretics |
-|  |  | Storm of Iron |
-|  |  | Take Down |
-|  |  | Target Selection |
-|  |  | True Grit |
-| 300 |  | Faith Talent x 3 |
-| 500 |  | Faith Talent x 4 |
-| 800 |  | Faith Talent |
+|  | Talent | Scurge of Heretics |
+|  | Talent | Storm of Iron |
+|  | Talent | Take Down |
+|  | Talent | Target Selection |
+|  | Talent | True Grit |
+| 300 | Talent | Faith Talent x 3 |
+| 500 | Talent | Faith Talent x 4 |
+| 800 | Talent | Faith Talent |
 
 ## Celestian
-Characteristics:
-|      |  +5  |  +10 |  +15 |  +20 |
-| ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+
+* +5 BS or T
+* **You Gain**: Tactics(Any), Bolter Drill, Two Weapon Wielder(Balistic), Pistol Weapon Training(Any), Basic Weapon Training(Any), Melee Weapon Training(Any), Heavy Weapon Training(Any)
+* **Pick 6 of the following**: 
+* Once per combat, .
+* You may spend a fate point to .
+* **Equipment**:
+  * You can choose 1 from the following list:
+    * X Boltgun, 4 Frag grenades, 4 Krak grenades, 1 melta bomb. 
+    * X Boltgun, Chainsword, 2 Frag grenades, 2 Krak grenades.
+    * X Boltgun, Powersword.
+    * X Flameer, 2 Frag grenades, 2 Krak grenades.
+    * Meltagun
+
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
+|   |  Skill | Acrobatics |
+|   |  Skill | Awreness |
+|   |  Skill | Carouse |
+|   |  Skill | Charm |
+|   |  Skill | Chem Use |
+|   |  Skill | Chipers |
+|   |  Skill | Climb |
+|   |  Skill | Command |
+|   |  Skill | Concealment |
+|   |  Skill | Contortionist |
+|   |  Skill | Decieve |
+|   |  Skill | Demolition |
+|   |  Skill | Disguise |
+|   |  Skill | Dodge |
+|   |  Skill | Drive() |
+|   |  Skill | Evaluate |
+|   |  Skill | Gamble |
+|   |  Skill | Inquiry |
+|   |  Skill | Interrogation |
+|   |  Skill | Intimidate |
+|   |  Skill | Invocation |
+|   |  Skill | Lip Reading |
+|   |  Skill | Literacy |
+|   |  Skill | Logic |
+|   |  Skill | Lore: Common() |
+|   |  Skill | Lore: Scolastic() |
+|   |  Skill | Lore: Forbidden() |
+|   |  Skill | Medicae |
+|   |  Skill | Navigation() |
+|   |  Skill | Performer() |
+|   |  Skill | Pilot() |
+|   |  Skill | Psyniscience |
+|   |  Skill | Security |
+|   |  Skill | Scrutiny |
+|   |  Skill | Search |
+|   |  Skill | Shadowing |
+|   |  Skill | Silent Move |
+|   |  Skill | Sleight of Hand |
+|   |  Skill | Speak Language() |
+|   |  Skill | Survival |
+|   |  Skill | Swim |
+|   |  Skill | Tactics() |
+|   |  Skill | Tech Use |
+|   |  Skill | Tracking |
+|   |  Skill | Trade |
+|   |  Skill | Wrangling |
+|   | Talent | Peer(Deathwatch) |
+|   | Talent | Deathwatch Indoctrination |
+|   | Talent | Terifying Truths |
+|   | Talent |  |
+
 |  |  |  |
 
 ## Canoness
