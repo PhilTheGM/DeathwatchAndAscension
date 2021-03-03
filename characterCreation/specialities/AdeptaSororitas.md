@@ -6,13 +6,13 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 
 * +5 BS or Ag
 * **You Gain**: Pilot(Personal), Tactics(Assault), Ambidexterous, Two Weapon Wielder(Balistic), Pistol Weapon Training(Flame or Melta)
-* **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking, Assasin Strike, Gunslinger, Hatred(Any), Leap Up, Two Weapon Wielder(Melee), True Grit
+* **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking, Assasin Strike, Gunslinger,  Faith Talent, Hatred(Any), Leap Up, Two Weapon Wielder(Melee), True Grit
 * Once per combat, as a reaction, you can declare you have Unnatural Toughness(3) for a full turn. Warp based attacks (including those made by deamons) will count you you as having Unnatural Toughness(4).
 * You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
 * **Equipment**:
   * Seraphim Jump Pack 
   * You can choose 1 from the following list:
-    * Bolt pistol, 4 Frag grenades, 4 Krak grenades, 1 melta bomb. Both og the seraphims bolt pistols recieve the reliable quality
+    * Godwyn-De'az Boltpistol, 4 Frag grenades, 4 Krak grenades, 1 melta bomb.
     * 2 Seraphim Hand Flamers, 2 Frag grenades, 2 Krak grenades
     * 2 Seraphim Fusion pistols
     * 1 Powersword, 1 Frag grenade, 1 Krak grenade
@@ -26,7 +26,7 @@ Characteristics:
 |   T  |  200 |  500 | 1000 | 1500 |
 |  Ag  |  200 |  500 | 1000 | 1500 |
 |  Int |  750 | 1500 | 2000 | 5000 |
-|  Per |  750 | 1500 | 2000 | 5000 |
+|  Per |  500 | 1000 | 1000 | 1500 |
 |   Wp |  500 | 1000 | 1500 | 2000 |
 |  Fel |  750 | 1500 | 2000 | 5000 |
 
@@ -115,15 +115,16 @@ Characteristics:
 
 * +5 BS or T
 * **You Gain**: Tactics(Any), Bolter Drill, Two Weapon Wielder(Balistic), Pistol Weapon Training(Any), Basic Weapon Training(Any), Melee Weapon Training(Any), Heavy Weapon Training(Any)
-* **Pick 6 of the following**: 
+* **Pick 6 of the following**:  Faith Talent
 * Once per combat, .
 * You may spend a fate point to .
 * **Equipment**:
   * You can choose 1 from the following list:
-    * X Boltgun, 4 Frag grenades, 4 Krak grenades, 1 melta bomb. 
-    * X Boltgun, Chainsword, 2 Frag grenades, 2 Krak grenades.
-    * X Boltgun, Powersword.
-    * X Flameer, 2 Frag grenades, 2 Krak grenades.
+    * Godwyn-De'az Patern Bolter, 4 Frag grenades, 4 Krak grenades, 1 Melta bomb. 
+    * Godwyn-De'az Patern Bolter, Chainsword, 2 Frag grenades, 2 Krak grenades.
+    * Godwyn-De'az Storm Bolter, 1 Frag grenades, 1 Krak grenades,
+    * Godwyn-De'az Patern Bolter, Powersword.
+    * Flameer, 2 Frag grenades, 2 Krak grenades.
     * Meltagun
 
 Characteristics:
@@ -191,40 +192,95 @@ Characteristics:
 |   | Talent | Deathwatch Indoctrination |
 |   | Talent | Terifying Truths |
 |   | Talent |  |
-
+|  | Talent | Abhore the Witch |
+|  500 | Talent | Assasin Strike |
+|  400 | Talent | Catfall |
+|  500 | Talent | Cleanse and Purify |
+|  500 | Talent | Combat Master |
+|  500 | Talent | Counter Attack |
+| 1200 | Talent | Deathwatch Indoctrination |
+|  700 | Talent | Die Hard |
+|  500 | Talent | Hard Target |
+|  400 | Talent | Hatred(Any) |
+|  300 | Talent | Hatred(Ab-Humans) |
+|  500 | Talent | Hatred(Xenos) |
+|  700 | Talent | Hip Shooting |
+| 1000 | Talent | Fearless |
+|  600 | Talent | Independant Targetting |
+|  600 | Talent | Leap Up |
+|  800 | Talent | Lightning Attack |
+|  400 | Talent | Lightning Reflexes |
+|  600 | Talent | Paranoia |
+|  400 | Talent | Peer(Deathwatch) |
+|  400 | Talent | Resistance(Psychic Powers) |
+|  200 | Talent | Sound Constitution x 4 |
+|  500 | Talent | Sound Constitution x 6 |
+|  800 | Talent | Step Aside |
+|  500 | Talent | Swift Attack |
+|  | Talent | Scurge of Heretics |
+|  | Talent | Storm of Iron |
+|  400 | Talent | Take Down |
+|  | Talent | Target Selection |
+|  700 | Talent | True Grit |
+|  300 | Talent | Faith Talent x 3 |
+|  500 | Talent | Faith Talent x 4 |
+|  800 | Talent | Faith Talent |
 |  |  |  |
 
 ## Canoness
+
+
+
+* **Equipment**:
+  * You can choose 1 from the following list:
+    * Godwyn-De'az Patern Bolter, Powersword. 
+    * Seraphim Inferno Pistol, Powersword.
+    * Plasma Pistol, Powersword.
+    * Braiser of Holy Fire.
+  * You can choose 1 from the following list:
+    * Seraphim Jump Pack
+    * Liber Heresius
+    * Lithanies of Faith
+    * Simulacrum Imperialis
+
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+|  BS  |  500 |   |   |   |
+|  WS  |  500 |   |   |   |
+|   S  |  500 |   |   |   |
+|   T  |  500 |   |   |   |
+|  Ag  |  500 |   |   |   |
+|  Int |  500 |   |   |   |
+|  Per |  500 |   |   |   |
+|   Wp |  200 |   |   |   |
+|  Fel |  200 |   |   |   |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
 |  |  |  |
 
 ## Dominion
+
+
+* **Equipment**:
+  * You can choose 1 from the following list:
+    * Godwyn-De'az Patern Heavy Bolter, Backpack Ammo Supply. 
+    * Heavy Flamer, Backpack Ammo Supply.
+    * Multi-Melta.
+
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |   |   |   |   |
-|  WS  |   |   |   |   |
-|   S  |   |   |   |   |
-|   T  |   |   |   |   |
-|  Ag  |   |   |   |   |
-|  Int |   |   |   |   |
-|  Per |   |   |   |   |
-|   Wp |   |   |   |   |
-|  Fel |   |   |   |   |
+|  BS  |  200 |   |   |   |
+|  WS  |  500 |   |   |   |
+|   S  |  500 |   |   |   |
+|   T  |  200 |   |   |   |
+|  Ag  |  200 |   |   |   |
+|  Int |  750 |   |   |   |
+|  Per |  750 |   |   |   |
+|   Wp |  500 |   |   |   |
+|  Fel |  500 |   |   |   |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
