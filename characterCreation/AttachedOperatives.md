@@ -61,7 +61,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 * **Any 5 of The Following**: Command, Charm, Contortionist, Interrogation, Lip Reading, Dodge +10, Intimidate, Jaded, Search, Swim, Flagallent, Hatred(Xenos), Hardy, Tech Use.
 * **Hitpoints**: 12
 * **Fate Points**: 1-4=3, 6-8=4, 9-10=5
-* **Equipment**: Bolt Pistol, Sororitas Power Armour, Sanctified Knife (1d5R, Sanctified), Chaplet Ecclesiasticus (Counts as a Charm), Ring of Sufferage(Counts as a Charm), Copy of the Rule of Sororitas, Soriada, Writing Kit, Shield Robes.
+* **Equipment**: Godwyn-De'az Boltpistol, Sororitas Power Armour, Sanctified Knife (1d5R, Sanctified), Chaplet Ecclesiasticus (Counts as a Charm), Ring of Sufferage(Counts as a Charm), Copy of the Rule of Sororitas, Soriada, Writing Kit, Shield Robes.
 * Adepta Sororitas can spend a fate point to heal 1d10 wounds.
 * **Organisation Demeanor**: Pious
 * **Suggested Demeanors**: Calculating, Heroic, Hot Blooded, Jaded, Loner, Loyal, Obsessive, Quiet, Reckless, Sensible, Studious, Stoic, Scornful, Proud.
