@@ -50,7 +50,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 ### Adepta Sororitas
 
 * +5 to Willpower and either Weapon Skill or Ballistic Skill
-* **Start with**: Acrobatics, Awareness, Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Scholastic Lore(Philosophy), Speak Language(Low Gothic, High Gothic, Sororitas Battle Cant), Perforer(Singer), Literacy
+* **Start with**: Acrobatics, Awareness, Chiphers(Sororitas Battle Cant), Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Scholastic Lore(Philosophy), Speak Language(Low Gothic, High Gothic), Chiphers(Sororitas Battle Cant), Perforer(Singer), Literacy
 *  **Talents**: Basic Weapon Training(Bolt), Hatred(Heretics, Mutants, Psykers), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain), Nerves of Steel, Pistol Weapon Training(Bolt), Quickdraw, True Faith
 * **Choose 1 of The Following**: 
   * Basic Weapon Training(Flame), Heavy Weapon Training(Flame), Pistol Weapon Training(Flame), Cleanse and Purify
