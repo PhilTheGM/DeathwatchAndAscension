@@ -275,6 +275,84 @@ Characteristics:
 |  500 | Talent | Psy Rating x 2 |
 | \*var | Talent | Psychic Power x 4 |
 
+## Savage Champion:
+Though you have little inderstanding of the greater Imperium and your aptitude with technology is primitive compaired with the average Imperial citizen, on your home planet you are a warrior and hunter beyond compair. Perhaps you are a famous, near-mythical, hero. Perhaps you are a rebal or a ghost operative. Either way you are a master of your home terain. Beside a space marine you are a scout, a guide and a fountan of local knowledge. To a space marine of the right chapter you may very much remind them of their own previous life as a mortal.
+
+* +5 to WS or Per.
+* **You Gain**: Lore Common(Jericho Reach), Unarmed Warrior
+* **Pick X of the following**: Tactics(Any) x 2, Melee Weapon Training(Any)
+* In your hands any basic melee or ranged weapon is considered 1 step better in quality. Basic ranged weapons include bows, thrown spears, improvised throwing weapons and other primitive weaponry.
+* Any Lore: Common(Jericho Reach) or Survival test that you fail, which pertains to your homeworld you can, declare that you have passed with a number of degrees of success equal to your inteligence bonus. Any such test that pertains to something simular to what could be found on your homeworld, you can declare as having been passed with 0 degrees of success. The GM has final say over what is pertanant to your homeworld.
+* You may spend a fate point to disappear into any given terain that is in any way simular to terain found on your home planet. In combat this is a half action, and it will make enemies completely unaware of where you have gone to without passing a -30 awareness. In order to do this you must be completely unrestrained and in a location that is not sesigned to keep you prisoner.
+* **Equipment**:
+ * Either you have been given flack armour, or your primitive armour counts as flack.
+ * Exceptional craftsmanship Mono-knife.
+ * You may choose one of the following:
+   * Autogun, Auxilary Grenade Launcher, Stub automatic, 4 Grenade Launcher Frag grenades, 4 Frag Grenades, 
+   * Master Crafted Hunting Rifle with telescopic sight, Stub Automatic with silencer, Camo-cloak.
+   * Any 2 solid projectile pistols, weapon sight, any 1 melee weapon. Any 2 clips of special amunition. 
+   * Any 2 low-tech weapons, 1 melee weapon may have the mono-upgrade and be exceptional craftsmanship. 3 x Mantraps, camo-cloak or exceptional-craftsmanship shield.
+   * Any melee weapon, 1 solid project pistol or low-tech weapon, camo-cloak or exceptional-craftsmanship shield.
+
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |  500 | 1000 | 1500 | 2000 |
+|  WS  |  200 |  500 | 1000 | 1500 |
+|   S  |  500 | 1000 | 1500 | 2000 |
+|   T  |  500 | 1000 | 1500 | 2000 |
+|  Ag  |  200 |  500 | 1000 | 1500 |
+|  Int |  750 | 1500 | 2000 | 5000 |
+|  Per |  200 |  500 | 1000 | 1500 |
+|   Wp |  500 | 1000 | 1500 | 2000 |
+|  Fel |  750 | 1500 | 2000 | 5000 |
+
+| Cost | Type |       Advance       |
+|------|------|---------------------|
+|   |  Skill | Acrobatics |
+|   |  Skill | Awreness |
+|   |  Skill | Carouse |
+|   |  Skill | Charm |
+|   |  Skill | Chem Use |
+|   |  Skill | Chipers(Imperial) |
+|   |  Skill | Climb |
+|   |  Skill | Command |
+|   |  Skill | Concealment |
+|   |  Skill | Contortionist |
+|   |  Skill | Decieve |
+|   |  Skill | Demolition |
+|   |  Skill | Disguise |
+|   |  Skill | Dodge |
+|   |  Skill | Drive(Surface) |
+|   |  Skill | Evaluate |
+|   |  Skill | Gamble |
+|   |  Skill | Inquiry |
+|   |  Skill | Interrogation |
+|   |  Skill | Intimidate |
+|   |  Skill | Lip Reading |
+|   |  Skill | Logic |
+|   |  Skill | Medicae |
+|   |  Skill | Navigation(Surface) |
+|   |  Skill | Pilot(Flyer) |
+|   |  Skill | Security |
+|   |  Skill | Scrutiny |
+|   |  Skill | Search |
+|   |  Skill | Shadowing |
+|   |  Skill | Silent Move |
+|   |  Skill | Sleight of Hand |
+|   |  Skill | Survival |
+|   |  Skill | Swim |
+|   |  Skill | Tactics() |
+|   |  Skill | Tech Use |
+|   |  Skill | Tracking |
+|   |  Skill | Trade |
+|   |  Skill | Wrangling |
+|   | Talent |  |
+|   | Talent | Peer(Deathwatch) |
+|   | Talent | Deathwatch Indoctrination |
+|   | Talent | Terifying Truths |
+|   | Talent |  |
+
 ## Storm Trooper:
 
 Characteristics:
