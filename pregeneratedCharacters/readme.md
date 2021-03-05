@@ -39,6 +39,8 @@ Chapter is from the core rulebook pgXX
 
 ### Inquisition - Storm Trooper
 
+### Inquisition - Savage Champion
+
 ### Adeptus Mechanicus - Magos
 
 ### Adepta Sororitas - Seraphim
