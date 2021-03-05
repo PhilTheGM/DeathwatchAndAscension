@@ -38,6 +38,7 @@ Characteristics:
 |  200 |  Skill | Awareness |
 |  200 |  Skill | Awareness +10 |
 |  400 |  Skill | Charm |
+|  500 |  Skill | Chipers(Inquisition) |
 |  200 |  Skill | Climb |
 |  200 |  Skill | Climb +10 |
 |  500 |  Skill | Command |
@@ -76,7 +77,8 @@ Characteristics:
 |  400 |  Skill | Tactics(Any) |
 |  500 |  Skill | Tech-Use |
 |  400 |  Skill | Tracking |
-|  | Talent | Abhore the Witch |
+|  200 |  Skill | Trade(Remembrancer) |
+|  700 | Talent | Abhore the Witch |
 |  500 | Talent | Assasin Strike |
 |  400 | Talent | Catfall |
 |  500 | Talent | Cleanse and Purify |
@@ -84,7 +86,7 @@ Characteristics:
 |  500 | Talent | Counter Attack |
 | 1200 | Talent | Deathwatch Indoctrination |
 |  700 | Talent | Die Hard |
-|  | Talent | Gunslinger |
+|  400 | Talent | Gunslinger |
 |  500 | Talent | Hard Target |
 |  400 | Talent | Hatred(Any) |
 |  300 | Talent | Hatred(Ab-Humans) |
@@ -102,10 +104,10 @@ Characteristics:
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  500 | Talent | Swift Attack |
-|  | Talent | Scurge of Heretics |
-|  | Talent | Storm of Iron |
+|  500 | Talent | Scurge of Heretics |
+|  700 | Talent | Storm of Iron |
 |  400 | Talent | Take Down |
-|  | Talent | Target Selection |
+|  200 | Talent | Target Selection |
 |  700 | Talent | True Grit |
 |  300 | Talent | Faith Talent x 3 |
 |  500 | Talent | Faith Talent x 4 |
@@ -117,113 +119,112 @@ Characteristics:
 * **You Gain**: Tactics(Any), Bolter Drill, Two Weapon Wielder(Balistic), Pistol Weapon Training(Any), Basic Weapon Training(Any), Melee Weapon Training(Any), Heavy Weapon Training(Any)
 * **Pick 6 of the following**:  Faith Talent
 * Once per combat, .
-* You may spend a fate point to .
+* Once per combat may spend a fate point to to make an estra attack against a foe that you have hatred against.
 * **Equipment**:
   * You can choose 1 from the following list:
     * Godwyn-De'az Patern Bolter, 4 Frag grenades, 4 Krak grenades, 1 Melta bomb. 
     * Godwyn-De'az Patern Bolter, Chainsword, 2 Frag grenades, 2 Krak grenades.
-    * Godwyn-De'az Storm Bolter, 1 Frag grenades, 1 Krak grenades,
     * Godwyn-De'az Patern Bolter, Powersword.
+    * Godwyn-De'az Storm Bolter, 1 Frag grenades, 1 Krak grenades,
     * Flameer, 2 Frag grenades, 2 Krak grenades.
     * Meltagun
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
 | ---- | ---- | ---- | ---- | ---- |
-|  BS  |  200 |   |   |   |
-|  WS  |  200 |   |   |   |
-|   S  |  500 |   |   |   |
-|   T  |  500 |   |   |   |
-|  Ag  |  500 |   |   |   |
-|  Int |  500 |   |   |   |
-|  Per |  500 |   |   |   |
-|   Wp |  500 |   |   |   |
-|  Fel |  500 |   |   |   |
+|  BS  |  200 | 1000 | 1500 | 2000 |
+|  WS  |  200 | 1000 | 1500 | 2000 |
+|   S  |  500 | 1000 | 1500 | 2000 |
+|   T  |  500 | 1000 | 1500 | 2000 |
+|  Ag  |  500 | 1000 | 1500 | 2000 |
+|  Int |  500 | 1000 | 1500 | 2000 |
+|  Per |  500 | 1000 | 1500 | 2000 |
+|   Wp |  500 | 1000 | 1500 | 2000 |
+|  Fel |  500 | 1000 | 1500 | 2000 |
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
 |   |  Skill | Acrobatics |
 |   |  Skill | Awreness |
-|   |  Skill | Carouse |
+|   |  Skill | Awreness +10 |
 |   |  Skill | Charm |
-|   |  Skill | Chem Use |
 |   |  Skill | Chipers |
+|  500 |  Skill | Chipers(Inquisition) |
+|  500 |  Skill | Chiphers(Sororitas Battle Cant) +10 |
 |   |  Skill | Climb |
 |   |  Skill | Command |
+|   |  Skill | Command +10|
 |   |  Skill | Concealment |
 |   |  Skill | Contortionist |
-|   |  Skill | Decieve |
 |   |  Skill | Demolition |
-|   |  Skill | Disguise |
 |   |  Skill | Dodge |
-|   |  Skill | Drive() |
-|   |  Skill | Evaluate |
-|   |  Skill | Gamble |
-|   |  Skill | Inquiry |
-|   |  Skill | Interrogation |
-|   |  Skill | Intimidate |
-|   |  Skill | Invocation |
-|   |  Skill | Lip Reading |
-|   |  Skill | Literacy |
-|   |  Skill | Logic |
-|   |  Skill | Lore: Common() |
-|   |  Skill | Lore: Scolastic() |
-|   |  Skill | Lore: Forbidden() |
+|   |  Skill | Dodge +10 |
+|   |  Skill | Drive(Ground Vehicles) |
+|   |  Skill | Drive(Ground Vehicles) +10 |
+|   |  Skill | Drive(Any) |
+|  500 |  Skill | Lore: Common(Eclesiarchy) +10 |
+|  500 |  Skill | Lore: Common(Imperial Creed) +10  |
+|  500 |  Skill | Lore: Common(Any)  |
+|  500 |  Skill | Lore: Scolastic(Philosophy) +10  |
+|  500 |  Skill | Lore: Forbidden(Heresy) +10 |
+|  500 |  Skill | Lore: Forbidden(Mutants) +10 |
+|  700 |  Skill | Lore: Forbidden(Psykers) +10 |
 |   |  Skill | Medicae |
-|   |  Skill | Navigation() |
-|   |  Skill | Performer() |
-|   |  Skill | Pilot() |
-|   |  Skill | Psyniscience |
-|   |  Skill | Security |
+|   |  Skill | Navigation(Surface) |
+|   |  Skill | Navigation(Surface) +10 |
+|   |  Skill | Performer(Singer) +10 |
+|  500 |  Skill | Pilot(Any) |
 |   |  Skill | Scrutiny |
+|   |  Skill | Scrutiny +10 |
 |   |  Skill | Search |
+|   |  Skill | Search +10 |
 |   |  Skill | Shadowing |
 |   |  Skill | Silent Move |
-|   |  Skill | Sleight of Hand |
-|   |  Skill | Speak Language() |
+|   |  Skill | Speak Language(Any) |
 |   |  Skill | Survival |
 |   |  Skill | Swim |
-|   |  Skill | Tactics() |
+|   |  Skill | Tactics(Any) |
+|   |  Skill | Tactics(Any) +10 |
 |   |  Skill | Tech Use |
 |   |  Skill | Tracking |
-|   |  Skill | Trade |
-|   |  Skill | Wrangling |
-|   | Talent | Peer(Deathwatch) |
-|   | Talent | Deathwatch Indoctrination |
-|   | Talent | Terifying Truths |
+|   |  Skill | Trade(Remembrancer) |
+|   |  Skill | Trade(Remembrancer) +10 |
+|   |  Skill | Trade(Cryptographer) |
 |   | Talent |  |
-|  | Talent | Abhore the Witch |
-|  500 | Talent | Assasin Strike |
-|  400 | Talent | Catfall |
-|  500 | Talent | Cleanse and Purify |
-|  500 | Talent | Combat Master |
+|  700 | Talent | Abhore the Witch |
+|   | Talent |  |
+|   | Talent |  |
+|  400 | Talent | Cleanse and Purify |
+|   | Talent |  |
+|   | Talent |  |
 |  500 | Talent | Counter Attack |
 | 1200 | Talent | Deathwatch Indoctrination |
 |  700 | Talent | Die Hard |
 |  500 | Talent | Hard Target |
-|  400 | Talent | Hatred(Any) |
-|  300 | Talent | Hatred(Ab-Humans) |
+|  500 | Talent | Hatred(Any) |
+|  500 | Talent | Hatred(Ab-Humans) |
 |  500 | Talent | Hatred(Xenos) |
-|  700 | Talent | Hip Shooting |
+|   | Talent |  |
 | 1000 | Talent | Fearless |
-|  600 | Talent | Independant Targetting |
-|  600 | Talent | Leap Up |
-|  800 | Talent | Lightning Attack |
-|  400 | Talent | Lightning Reflexes |
+|  600 | Talent |  |
+|  700 | Talent | Leap Up |
+|   | Talent |  |
+|  700 | Talent | Lightning Reflexes |
 |  600 | Talent | Paranoia |
-|  400 | Talent | Peer(Deathwatch) |
+|  200 | Talent | Peer(Deathwatch) |
 |  400 | Talent | Resistance(Psychic Powers) |
 |  200 | Talent | Sound Constitution x 4 |
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
-|  500 | Talent | Swift Attack |
+|  700 | Talent | Swift Attack |
 |  | Talent | Scurge of Heretics |
 |  | Talent | Storm of Iron |
-|  400 | Talent | Take Down |
+|  500 | Talent | Take Down |
 |  | Talent | Target Selection |
 |  700 | Talent | True Grit |
-|  300 | Talent | Faith Talent x 3 |
-|  500 | Talent | Faith Talent x 4 |
+|  400 | Talent | Terifying Truths |
+|  300 | Talent | Faith Talent x 4 |
+|  500 | Talent | Faith Talent x 3 |
 |  800 | Talent | Faith Talent |
 |  |  |  |
 
