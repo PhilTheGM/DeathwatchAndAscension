@@ -37,7 +37,7 @@ Chapter is from the core rulebook pgXX
 
 ### Inquisition - Interogator
 
-### Inquisition - Storm Trooper
+### Inquisition - Storm Trooper - Untouchable
 
 ### Inquisition - Savage Champion
 
