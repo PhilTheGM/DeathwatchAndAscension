@@ -124,7 +124,7 @@ Characteristics:
 |  400 | Talent | Lightning Reflexes |
 |  700 | Talent | Sprint |
 |  200 | Talent | Terifying Truths |
-|  500 | Talent | Untouchable |
+|  700 | Talent | Untouchable |
 
 ## Arbite Seeker:
 Characteristics:
