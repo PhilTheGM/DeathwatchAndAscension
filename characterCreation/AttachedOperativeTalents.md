@@ -10,7 +10,8 @@ You have a forgettable face and are able to blend in with a crowd. Attempts to n
 
 ### Untouchable
 ![Untouchable 1](../images/Untouchable1.png)
-![Untouchable 2](../images/Untouchable2.png)  
+![Untouchable 2](../images/Untouchable2.png)
+![Untouchable 3](../images/Untouchable3.png)    
 Some aditional rules to make all the skills work properly
 
 ## Faith Powers
