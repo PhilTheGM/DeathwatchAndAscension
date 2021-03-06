@@ -6,7 +6,7 @@
 You can use `Fel` instead of `S` for intimidation tests.
 
 ### Unremarkable  
-![Unremarkable Talent](../images/UnremarkableTalent.png)
+You have a forgettable face and are able to blend in with a crowd. Attempts to notice you when amongst other people or anyone attempting to describe you or recall details about you incurs a –20 penalty
 
 ### Untouchable
 ![Untouchable 1](../images/Untouchable1.png)
