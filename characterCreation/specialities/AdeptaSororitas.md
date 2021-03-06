@@ -6,7 +6,7 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 
 * +5 BS or Ag
 * **You Gain**: Pilot(Personal), Tactics(Assault), Ambidexterous, Two Weapon Wielder(Balistic), Pistol Weapon Training(Flame or Melta)
-* **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking, Assasin Strike, Gunslinger,  Faith Talent, Hatred(Any), Leap Up, Two Weapon Wielder(Melee), True Grit
+* **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking, Assasin Strike, Gunslinger,  Faith Talent, Hatred(Any), Leap Up, Two Weapon Wielder(Melee), True Grit, Untouchable.
 * Once per combat, as a reaction, you can declare you have Unnatural Toughness(3) for a full turn. Warp based attacks (including those made by deamons) will count you you as having Unnatural Toughness(4).
 * You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
 * **Equipment**:
@@ -123,7 +123,7 @@ Characteristics:
 
 * +5 BS or T
 * **You Gain**: Tactics(Any), Bolter Drill, Two Weapon Wielder(Balistic), Pistol Weapon Training(Any), Basic Weapon Training(Any), Melee Weapon Training(Any), Heavy Weapon Training(Any)
-* **Pick 6 of the following**:  Awareness, Carouse, Disguise, Psynescience, Sleight of Hand, Tactics(Any) x 2, Tactics(Any) +10, Speak Language(Any), Trade(Any), Anbidexterous, Two Weapon Wielder(Any), Good Reputation(Any), Faith Talent x 2
+* **Pick 6 of the following**:  Awareness, Carouse, Disguise, Psynescience, Sleight of Hand, Tactics(Any) x 2, Tactics(Any) +10, Speak Language(Any), Trade(Any), Anbidexterous, Two Weapon Wielder(Any), Good Reputation(Any), Untouchable, Faith Talent x 2
 * Once per combat, .
 * Once per combat may spend a fate point to to make an estra attack against a foe that you have hatred against.
 * **Equipment**:
