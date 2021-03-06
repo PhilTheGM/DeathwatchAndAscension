@@ -74,26 +74,31 @@ Characteristics:
 |  400 |  Skill | Shadowing |
 |  200 |  Skill | Silent Move |
 |  400 |  Skill | Survival |
+|  500 |  Skill | Swim |
 |  400 |  Skill | Tactics(Any) |
 |  500 |  Skill | Tech-Use |
 |  400 |  Skill | Tracking |
 |  200 |  Skill | Trade(Remembrancer) |
 |  700 | Talent | Abhore the Witch |
 |  500 | Talent | Assasin Strike |
+|  700 | Talent | Blademaster |
 |  400 | Talent | Catfall |
 |  500 | Talent | Cleanse and Purify |
 |  500 | Talent | Combat Master |
 |  500 | Talent | Counter Attack |
 | 1200 | Talent | Deathwatch Indoctrination |
 |  700 | Talent | Die Hard |
+|  600 | Talent | Double Team |
 |  400 | Talent | Gunslinger |
 |  500 | Talent | Hard Target |
+|  400 | Talent | Hardy |
 |  400 | Talent | Hatred(Any) |
 |  300 | Talent | Hatred(Ab-Humans) |
 |  500 | Talent | Hatred(Xenos) |
 |  700 | Talent | Hip Shooting |
 | 1000 | Talent | Fearless |
 |  600 | Talent | Independant Targetting |
+|  500 | Talent | Killing Strike |
 |  600 | Talent | Leap Up |
 |  800 | Talent | Lightning Attack |
 |  400 | Talent | Lightning Reflexes |
@@ -109,6 +114,7 @@ Characteristics:
 |  400 | Talent | Take Down |
 |  200 | Talent | Target Selection |
 |  700 | Talent | True Grit |
+|  200 | Talent | Unarmed Warrior |
 |  300 | Talent | Faith Talent x 3 |
 |  500 | Talent | Faith Talent x 4 |
 |  800 | Talent | Faith Talent |
@@ -144,89 +150,111 @@ Characteristics:
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
-|   |  Skill | Acrobatics |
-|   |  Skill | Awreness |
-|   |  Skill | Awreness +10 |
-|   |  Skill | Charm |
-|   |  Skill | Chipers |
+|  500 |  Skill | Acrobatics |
+|  400 |  Skill | Awreness |
+|  400 |  Skill | Awreness +10 |
+|  200 |  Skill | Charm |
+|  500 |  Skill | Chipers(Any) |
+|  500 |  Skill | Chipers(Imperial) |
 |  500 |  Skill | Chipers(Inquisition) |
 |  500 |  Skill | Chiphers(Sororitas Battle Cant) +10 |
-|   |  Skill | Climb |
-|   |  Skill | Command |
-|   |  Skill | Command +10|
-|   |  Skill | Concealment |
-|   |  Skill | Contortionist |
-|   |  Skill | Demolition |
-|   |  Skill | Dodge |
-|   |  Skill | Dodge +10 |
-|   |  Skill | Drive(Ground Vehicles) |
-|   |  Skill | Drive(Ground Vehicles) +10 |
-|   |  Skill | Drive(Any) |
-|  500 |  Skill | Lore: Common(Eclesiarchy) +10 |
-|  500 |  Skill | Lore: Common(Imperial Creed) +10  |
+|  400 |  Skill | Climb |
+|  200 |  Skill | Command |
+|  400 |  Skill | Command +10|
+|  500 |  Skill | Concealment |
+|  400 |  Skill | Contortionist |
+|  400 |  Skill | Demolition |
+|  400 |  Skill | Dodge |
+|  400 |  Skill | Dodge +10 |
+|  400 |  Skill | Drive(Any) |
+|  200 |  Skill | Drive(Ground Vehicles) |
+|  200 |  Skill | Drive(Ground Vehicles) +10 |
+|  400 |  Skill | Lore: Common(Eclesiarchy) +10 |
+|  400 |  Skill | Lore: Common(Imperial Creed) +10  |
 |  500 |  Skill | Lore: Common(Any)  |
-|  500 |  Skill | Lore: Scolastic(Philosophy) +10  |
-|  500 |  Skill | Lore: Forbidden(Heresy) +10 |
+|  400 |  Skill | Lore: Scolastic(Philosophy) +10  |
+|  400 |  Skill | Lore: Forbidden(Heresy) +10 |
 |  500 |  Skill | Lore: Forbidden(Mutants) +10 |
 |  700 |  Skill | Lore: Forbidden(Psykers) +10 |
-|   |  Skill | Medicae |
-|   |  Skill | Navigation(Surface) |
-|   |  Skill | Navigation(Surface) +10 |
-|   |  Skill | Performer(Singer) +10 |
+|  400 |  Skill | Medicae |
+|  400 |  Skill | Navigation(Surface) |
+|  400 |  Skill | Navigation(Surface) +10 |
+|  200 |  Skill | Performer(Singer) +10 |
 |  500 |  Skill | Pilot(Any) |
-|   |  Skill | Scrutiny |
-|   |  Skill | Scrutiny +10 |
-|   |  Skill | Search |
-|   |  Skill | Search +10 |
-|   |  Skill | Shadowing |
-|   |  Skill | Silent Move |
-|   |  Skill | Speak Language(Any) |
-|   |  Skill | Survival |
-|   |  Skill | Swim |
-|   |  Skill | Tactics(Any) |
-|   |  Skill | Tactics(Any) +10 |
-|   |  Skill | Tech Use |
-|   |  Skill | Tracking |
-|   |  Skill | Trade(Remembrancer) |
-|   |  Skill | Trade(Remembrancer) +10 |
-|   |  Skill | Trade(Cryptographer) |
-|   | Talent |  |
+|  400 |  Skill | Scrutiny |
+|  500 |  Skill | Scrutiny +10 |
+|  200 |  Skill | Search |
+|  400 |  Skill | Search +10 |
+|  600 |  Skill | Shadowing |
+|  500 |  Skill | Silent Move |
+|  700 |  Skill | Speak Language(Any) |
+|  400 |  Skill | Survival |
+|  500 |  Skill | Swim |
+|  400 |  Skill | Tactics(Any) |
+|  400 |  Skill | Tactics(Any) +10 |
+|  500 |  Skill | Tech Use |
+|  500 |  Skill | Tracking |
+|  200 |  Skill | Trade(Remembrancer) |
+|  400 |  Skill | Trade(Remembrancer) +10 |
+|  400 |  Skill | Trade(Cryptographer) |
 |  700 | Talent | Abhore the Witch |
-|   | Talent |  |
-|   | Talent |  |
+|  200 | Talent | Air of Athority |
+| 1000 | Talent | Ambidexterous |
+|  800 | Talent | Blademaster |
+|  700 | Talent | Bulging Bicepts |
+|  400 | Talent | Chem Glend |
 |  400 | Talent | Cleanse and Purify |
-|   | Talent |  |
-|   | Talent |  |
-|  500 | Talent | Counter Attack |
+|  200 | Talent | Combat Formation |
+|  200 | Talent | Combat Sense |
+|  700 | Talent | Counter Attack |
+|  600 | Talent | Crack Shot |
+|  500 | Talent | Deadeye Shot |
 | 1200 | Talent | Deathwatch Indoctrination |
-|  700 | Talent | Die Hard |
-|  500 | Talent | Hard Target |
+|  600 | Talent | Diehard |
+|  500 | Talent | Disturbing Voice |
+|  700 | Talent | Double Team |
+|  500 | Talent | Exemplar of Honour |
+|  600 | Talent | Eye of Vengance |
+| 1000 | Talent | Fearless |
+|  700 | Talent | Good Reputation(Astartes) |
+|  500 | Talent | Good Reputation(Imperial Guard) |
+|  400 | Talent | Good Reputation(Eclesarchy) |
+|  600 | Talent | Hard Target |
+|  500 | Talent | Hardy |
 |  500 | Talent | Hatred(Any) |
 |  500 | Talent | Hatred(Ab-Humans) |
 |  500 | Talent | Hatred(Xenos) |
-|   | Talent |  |
-| 1000 | Talent | Fearless |
-|  600 | Talent |  |
+|  500 | Talent | Heavy Weapon Training(Any) |
+|  800 | Talent | Inspire Wrath |
+|  600 | Talent | Jaded |
+|  700 | Talent | Killing Strike |
+|  700 | Talent | Last Man Standing |
 |  700 | Talent | Leap Up |
-|   | Talent |  |
-|  700 | Talent | Lightning Reflexes |
+|  700 | Talent | Marksman |
+|  600 | Talent | Meditation |
+|  700 | Talent | Mighty Shot |
+|  500 | Talent | Orthoproxy |
 |  600 | Talent | Paranoia |
 |  200 | Talent | Peer(Deathwatch) |
+|  400 | Talent | Peer(Eclesarchy) |
+|  500 | Talent | Rapid Reload |
 |  400 | Talent | Resistance(Psychic Powers) |
-|  200 | Talent | Sound Constitution x 4 |
+|  700 | Talent | Scurge of Heretics |
+|  200 | Talent | Sound Constitution x 3 |
 |  500 | Talent | Sound Constitution x 6 |
+|  600 | Talent | Sprint |
 |  800 | Talent | Step Aside |
 |  700 | Talent | Swift Attack |
-|  | Talent | Scurge of Heretics |
-|  | Talent | Storm of Iron |
+|  700 | Talent | Storm of Iron |
 |  500 | Talent | Take Down |
-|  | Talent | Target Selection |
-|  700 | Talent | True Grit |
+|  500 | Talent | Target Selection |
+| 1000 | Talent | True Grit |
 |  400 | Talent | Terifying Truths |
+|  500 | Talent | Unarmed Warrior |
+|  400 | Talent | Unshakable Faith |
 |  300 | Talent | Faith Talent x 4 |
 |  500 | Talent | Faith Talent x 3 |
 |  800 | Talent | Faith Talent |
-|  |  |  |
 
 ## Canoness
 
