@@ -1,7 +1,8 @@
 # Attached Operative Talents
 
 ### Deathwatch Indoctrination
-Be it through indoctrination, training, or the pure amount of time you have spent fighting alongside astartse of the Deathwatch, you can on occasion benefit from their squad tactics. Any codex squad mode initiated by the squad leader can be used by your operative if the squad leader succeeds on a challenging (+0) `Command` test.
+Be it through indoctrination, training, or the pure amount of time you have spent fighting alongside astartse of the Deathwatch, you can on occasion benefit from their squad tactics. You can enter squad mode just like an astartes. Any codex squad mode initiated by the squad leader can be used by your operative if the squad leader succeeds on a challenging (+0) `Command` test.
+While in squad mode you my not use any specialised usage of fate points given to you by your organisation or speciality. You also my not use faith powers. Your character is so in tune with thune with the movements of the gods of death that they are fighting with that it is imposible to focus on their more complex abilities.
 
 ### Terrifying Truths
 You can use `Fel` instead of `S` for intimidation tests.
