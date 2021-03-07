@@ -7,17 +7,17 @@ An organisation is a high level template for characters who might work with the 
 2.  5 to 2 thematic Characteristics.
 3. List of skills that everyone from that organisation would be expected to have at when they have become a master of their trade. Nothing here should be at more than 10.
 4. List of talents that everyone from that organisation would be expected to have at when they have become a master of their trade. 
-5. Hit points, to a minimum of 10. The character's specialty will allow them to buy more hit points, so this is the minimum you would expect from a representative of this organisation.
-6. Optionally Skill/Talent packages can be given to allow characters to have a secondary area of specialization.
-7. Fate Points are a little table to generate starting fate point with a die roll. More pious organisations and those closer to the emperor should have a best chance at getting 4 faith points and no chance to get 2 faith points. Unfeeling or irrefutable organisations should have a greater chance of rolling 3 faith points and no chance of rolling 5 faith points. No-one should be able to start with fewer than 2 faith points and only rolls of a 1 should even possible net you 2 faith points. EG `1=2, 2-5=3, 6-9=4, 10=5`
-8. Equipment that is common to all high level members of this organisation. This should generally include some sort of knife or small combat weapon.
-9. A special rule that is thematic to this organisation.
-10. A specialist use of faith points that is thematic to this organisation.
-11. An organisational demeanor.
-12. A list of suggested personal demeanors.
-13. A link to their specialties document.
+5. Optionally Skill/Talent packages can be given to allow characters to have a secondary area of specialization. Each package should be roughly equivenent in power/XP cost
+7. Hit points, to a minimum of 10. The character's specialty will allow them to buy more hit points, so this is the minimum you would expect from a representative of this organisation.
+8. Fate Points are a little table to generate starting fate point with a die roll. More pious organisations and those closer to the emperor should have a best chance at getting 4 faith points and no chance to get 2 faith points. Unfeeling or irrefutable organisations should have a greater chance of rolling 3 faith points and no chance of rolling 5 faith points. No-one should be able to start with fewer than 2 faith points and only rolls of a 1 should even possible net you 2 faith points. EG `1=2, 2-5=3, 6-9=4, 10=5`
+9. Equipment that is common to all high level members of this organisation. This should generally include some sort of knife or small combat weapon.
+10. A special rule that is thematic to this organisation.
+11. A specialist use of faith points that is thematic to this organisation.
+12. An organisational demeanor.
+13. A list of suggested personal demeanors.
+14. A link to their specialties document.
 
-**Note**: The experience cost of skills and talents given in steps 3 and 4 need to be calculated. This figure will be needed when adding specializations. You can use the bellow table as a guide:
+**Note**: The experience cost of skills and talents given in steps 3, 4 and 5 need to be calculated. A rough average can be used for 5. This figure will be needed when adding specializations. You can use the bellow table as a guide:
 | Not Much Benefit or Situational | Average Skill or Talent | Very Useful or Powerful | Very Useful and Powerful |
 |-------------------------------- | ----------------------- | ----------------------- | ------------------------ |
 |               250xp             |            500xp        |           750xp         |         1000xp           |
