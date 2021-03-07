@@ -28,7 +28,8 @@ Other considerations are:
 ## Existing Organizations
 These organisations are already created. Here are the themes that they follow and the design decisions made in their creation.
 
-### Inquisition is the organisation that the vast majority of Imperial citizens would work through in order to be attached to the Deathwatch. As such this is the most flexible organisation and should function as a catch all for specializations that don't rightly fit anywhere else. Inquisition members are all experienced investigators of some sort, even if their specialization lies elsewhere.
+### Inquisition 
+Inquisition is the organisation that the vast majority of Imperial citizens would work through in order to be attached to the Deathwatch. As such this is the most flexible organisation and should function as a catch all for specializations that don't rightly fit anywhere else. Inquisition members are all experienced investigators of some sort, even if their specialization lies elsewhere.
 
 ## Adepta Sororitas
 The specializations of the Adepta Sororitas are roughly analogous to a space marine squad. This organisation, in rules this organisation only covers the sisters of battle, and hospatiliters. Others, such as diaglogus, should fit in the Inquisition organisation. Sisters of battle are by far more pious than Astarte, and generally more agile.
