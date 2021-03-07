@@ -20,7 +20,7 @@ An organisation is a high level template for characters who might work with the 
 **Note**: The experience cost of skills and talents given in steps 3 and 4 need to be calculated. This figure will be needed when adding specialisatons. You can use the bellow table as a guide:
 | Not Much Benefet or Situational | Average Skill or Talent | Very Useful or Common |   Very Useful   |
 |-------------------------------- | ----------------------- | --------------------- | --------------- |
-|              250xp              |           500xp         |          750xp        |      1000xp     |
+|              250xp              |           500xp         |          750xp        |      1000xp     |  
 Other considerations are:
 * Theme: If the skill or talent is thematic for these type of character it should have a lower cost. Likewise, in the case of specialiastions if this...
 
@@ -34,5 +34,7 @@ Inquisition is the organisation that the vast majority of Imperial sitizens woul
 The specialisations of the Adepta Sororitas are roughly analigous to a space marine squad. This organisation, in rules this organisation only covers the sisters of battle, and hospatiliters. Others, such as diaglogus, should fit in the Inquisition organisation. Sisters of battle are by far more pius than astartes, and generally more agile.
 
 ## Adeptus Mechanicus
+Characters should have the option more armour than a space marine, due to the the machine trait, be generally tough and be experts in their field, or even fields of knowledge.
 
 ## Adeptus Assassinorum
+Assins should be exceptionally agile and hard to pin down, though not overly tough. An assasin character should be able to function independantly, and those that play these characters should be explicitly told that they will spend a lot of time apart from the killteam.
