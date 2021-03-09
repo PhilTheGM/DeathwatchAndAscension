@@ -31,11 +31,11 @@ These organisations are already created. Here are the themes that they follow an
 ### Inquisition 
 Inquisition is the organisation that the vast majority of Imperial citizens would work through in order to be attached to the Deathwatch. As such this is the most flexible organisation and should function as a catch all for specializations that don't rightly fit anywhere else. Inquisition members are all experienced investigators of some sort, even if their specialization lies elsewhere.
 
-## Adepta Sororitas
+### Adepta Sororitas
 The specializations of the Adepta Sororitas are roughly analogous to a space marine squad. This organisation, in rules this organisation only covers the sisters of battle, and hospatiliters. Others, such as diaglogus, should fit in the Inquisition organisation. Sisters of battle are by far more pious than Astarte, and generally more agile.
 
-## Adeptus Mechanicus
+### Adeptus Mechanicus
 Characters should have the option more armor than a space marine, due to the machine trait, be generally tough and be experts in their field, or even fields of knowledge.
 
-## Adeptus Assassinorum
+### Adeptus Assassinorum
 Assassins should be exceptionally agile and hard to pin down, though not overly tough. They should be experts unrivaled in their primary form of combat. An assassin character should be able to function independently, and those that play these characters should be explicitly told that they will spend a lot of time apart from the kill team, at least physically.
