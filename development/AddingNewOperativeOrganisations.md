@@ -24,6 +24,7 @@ An organisation is a high level template for characters who might work with the 
 
 Other considerations are:
 * Theme: If the skill or talent is thematic for these type of character it should have a lower cost. Likewise, in the case of specializations if this
+* Prerequisit: If they are a prerequisit for a very powerful ability then they may cost more. If they have a large number of prerequisits then they should cost less.
 
 ## Existing Organizations
 These organisations are already created. Here are the themes that they follow and the design decisions made in their creation.
