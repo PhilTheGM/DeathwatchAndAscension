@@ -13,4 +13,6 @@
 ## Attached Operatives Wargear
 I got loads of pics!
 
+#### Las Variable Power Settings
+
 
