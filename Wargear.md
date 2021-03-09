@@ -34,8 +34,6 @@ The standard basic or pistol las weapon has a variable setting option, allowing 
 ### Melee Weapons
 ![Melee Weapons 1](images/DHMeleeWeapons.png)
 
-![Ranged Weapons 2](images/BoMMeleeWeapons.png)
-
 ## Armour
 ![Armour 1](images/BoMPowerArmour.png)
 
@@ -52,7 +50,8 @@ The standard basic or pistol las weapon has a variable setting option, allowing 
 ![Tools 4](images/DHTools3.png)
 
 ![Tools 4](images/BoMToolsChapletEcclesiasticus.png)
-![Tools 5](images/BoMTools2.png)
+![Tools 5](images/BoMMeleeWeapons.png)
+![Tools 6](images/BoMTools2.png)
 
 ![Tools 6](images/AscBadgeOfOffice.png)
 ![Tools 7](images/AscGravChute.png)
