@@ -4,6 +4,10 @@
 
 ### Sanctified
 
+### Variable Power
+##### Las Weapon Variable Settings
+Some weapons, such as standard las weapons, have a variable setting option, allowing it to fire higher-powered bursts. A weapon with this quality may be set to overcharge mode, dealing +1 damage, but using two shots worth of ammunition per shot fired. Further, the weapon may be set to overload mode, dealing +2 damage and gaining +2 penetration. In this case, it uses four shots of ammunition per shot fired, loses Reliable, and gains Unreliable.
+
 ## Astartes Wargear
 
 ### Chain Axe
@@ -21,9 +25,9 @@ The standard basic or pistol las weapon has a variable setting option, allowing 
 
 ![Ranged Weapons 3](images/BoMRangedWeapons.png)
 #### Godwyn-De'az Bolt Pistol
-|           Name           |  Class | Range |  RoF  |   Dam   | Pen | Clip |  Rld |      Special      |  Wt | Availability |
-| ------------------------ | ------ | ----- | ----- | ------- | --- | ---- | ---- | ----------------- | --- | ------------ |
-| Godwyn-De'az Bolt Pistol | Pistol |  30m  | S/2/- | 1d10+5X |  4  |   10 | Full | Rearing, Reliable | 3kg |   Very Rare  |
+|           Name           |  Class | Range |  RoF  |   Dam   | Pen | Clip |  Rld |      Special      |  Wt |      Req     |     Renown    |
+| ------------------------ | ------ | ----- | ----- | ------- | --- | ---- | ---- | ----------------- | --- | ------------ | ------------- |
+| Godwyn-De'az Bolt Pistol | Pistol |  30m  | S/2/- | 1d10+5X |  4  |   10 | Full | Rearing, Reliable | 3kg |   Very Rare  | Distinguished |
 
 ![Ranged Weapons 4](images/AscRangedWeapons1.png)
 ![Ranged Weapons 5](images/AscRangedWeapons2.png)
