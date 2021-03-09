@@ -25,6 +25,87 @@ A speciality is an area of expertise that a character will be suited towards. Ea
   - *Sound Constitution* is the specialitity's only way to increase their hit points over those given in the organisation (which is a low average). If the archytype is at all tough, he should have some cheep choices here.
   - The total HP that can be gained by purchasing *Sound Constitution*, should be no more than 22
 
+## Speciality Template
+A starting ;point for a new specilities:
+```
+## name
+Flavor
+
+* +5 to 1 of 2 atributes
+* **You Gain**: 
+* **Pick X of the following**: 
+* Once per combat, .
+* You may spend a fate point to .
+* **Equipment**:
+
+Characteristics:
+|      |  +5  |  +10 |  +15 |  +20 |
+| ---- | ---- | ---- | ---- | ---- |
+|  BS  |   |   |   |   |
+|  WS  |   |   |   |   |
+|   S  |   |   |   |   |
+|   T  |   |   |   |   |
+|  Ag  |   |   |   |   |
+|  Int |   |   |   |   |
+|  Per |   |   |   |   |
+|   Wp |   |   |   |   |
+|  Fel |   |   |   |   |
+
+| Cost | Type |       Advance       |
+|------|------|---------------------|
+|   |  Skill | Acrobatics |
+|   |  Skill | Awreness |
+|   |  Skill | Carouse |
+|   |  Skill | Charm |
+|   |  Skill | Chem Use |
+|   |  Skill | Chipers |
+|   |  Skill | Climb |
+|   |  Skill | Command |
+|   |  Skill | Concealment |
+|   |  Skill | Contortionist |
+|   |  Skill | Decieve |
+|   |  Skill | Demolition |
+|   |  Skill | Disguise |
+|   |  Skill | Dodge |
+|   |  Skill | Drive() |
+|   |  Skill | Evaluate |
+|   |  Skill | Gamble |
+|   |  Skill | Inquiry |
+|   |  Skill | Interrogation |
+|   |  Skill | Intimidate |
+|   |  Skill | Invocation |
+|   |  Skill | Lip Reading |
+|   |  Skill | Literacy |
+|   |  Skill | Logic |
+|   |  Skill | Lore: Common() |
+|   |  Skill | Lore: Scolastic() |
+|   |  Skill | Lore: Forbidden() |
+|   |  Skill | Medicae |
+|   |  Skill | Navigation() |
+|   |  Skill | Performer() |
+|   |  Skill | Pilot() |
+|   |  Skill | Psyniscience |
+|   |  Skill | Security |
+|   |  Skill | Scrutiny |
+|   |  Skill | Search |
+|   |  Skill | Shadowing |
+|   |  Skill | Silent Move |
+|   |  Skill | Sleight of Hand |
+|   |  Skill | Speak Language() |
+|   |  Skill | Survival |
+|   |  Skill | Swim |
+|   |  Skill | Tactics() |
+|   |  Skill | Tech Use |
+|   |  Skill | Tracking |
+|   |  Skill | Trade |
+|   |  Skill | Wrangling |
+|   | Talent | Peer(Deathwatch) |
+|   | Talent | Deathwatch Indoctrination |
+|   | Talent | Terifying Truths |
+|   | Talent |  |
+```
+
+
 ## Noteworthy Existing Specialities
 Some thoughts on the design of some unusual existing specialities
 
