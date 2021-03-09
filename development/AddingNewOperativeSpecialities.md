@@ -26,7 +26,7 @@ A speciality is an area of expertise that a character will be suited towards. Ea
   - The total HP that can be gained by purchasing *Sound Constitution*, should be no more than 22
 
 ## Speciality Template
-A starting ;point for a new specilities:
+A starting point for new specialities:
 ```
 ## name
 Flavor
@@ -105,23 +105,22 @@ Characteristics:
 |   | Talent |  |
 ```
 
-
 ## Noteworthy Existing Specialities
 Some thoughts on the design of some unusual existing specialities
 
 ### Inquisition
 
-#### Interigator
-The interogater has access to high level connections and a great ability to interogate, but in general he's just a bag of unexpected tricks. The interigator should be the most flexable speciality of the most flexable organisation.  
-Really, I like Interogators a lot more than Inquisitors, as they don't have the same ability to come in and start ordering everyone around, thus changing the entire dynamic of the kill team.
+#### Interrogator
+The interrogator has access to high level connections and a great ability to interrogate, but in general he's just a bag of unexpected tricks. The interrogator should be the most flexible speciality of the most flexible organization.  
+Really, I like Interrogators a lot more than Inquisitors, as they don't have the same ability to come in and start ordering everyone around, thus changing the entire dynamic of the kill team.
 
 #### Savage Champion
-This is a catch all speciality for people who wish to play characters slightly oustside or oblivious to the greater imperium. More importantly, it should be a way to make a character that is oblivious to the greater imperium, thus accessable to those with no knowledge of the 40K lore. It should allow reasonable fantasy and contempary architypes to be playable.
+This is a catch-all speciality for people who wish to play characters slightly outside or oblivious to the greater imperium. More importantly, it should be a way to make a character that is oblivious to the greater imperium, thus accessible to those with no knowledge of the 40K lore. It should allow reasonable fantasy and contemporary archetypes to be playable.
 
 #### Storm Trooper
-Not only should this cover storm troopers, but it should be flexable enough to work as an experienced member of any regiment or standard Imperial Standing force. EG PDF, palace guards, tau empire rebels, etc
+Not only should this cover storm troopers, but it should be flexible enough to work as an experienced member of any regiment or standard Imperial Standing force. EG PDF, palace guards, tau empire rebels, etc
 
-### Adeptus Sororitas
+### Adepta Sororitas
 
 #### Celestian
-All the tactical flexability of a tactical marine with little of the command ability. A celestian may inspire a rabble to action, but her primary role is to bring death to the enemy, and engage their weaknesses.
+All the tactical flexibility of a tactical marine with little of the command ability. A celestial may inspire a rabble to action, but her primary role is to bring death to the enemy, and engage their weaknesses.
