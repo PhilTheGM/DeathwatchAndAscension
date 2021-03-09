@@ -123,5 +123,5 @@ Not only should this cover storm troopers, but it should be flexable enough to w
 
 ### Adeptus Sororitas
 
-## Celestian
+#### Celestian
 All the tactical flexability of a tactical marine with little of the command ability. A celestian may inspire a rabble to action, but her primary role is to bring death to the enemy, and engage their weaknesses.
