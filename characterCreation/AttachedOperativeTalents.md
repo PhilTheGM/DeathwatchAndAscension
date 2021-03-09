@@ -17,9 +17,12 @@ You have a forgettable face and are able to blend in with a crowd. Attempts to n
 
 ### Untouchable
 ![Untouchable 1](../images/Untouchable1.png)
-![Untouchable 2](../images/Untouchable2.png)
-![Untouchable 3](../images/Untouchable3.png) 
+![Untouchable 2](../images/Untouchable2.png)  
 Having lived with this condition for any period of time, you learn to adapt your deceptions to suit. You may now use `Int` for `Deceive` tests instead of `Fel`
+
+**The Untouchable and the Profane**:
+An untouchable (thanks to his special nature) is spared some of both the perils of interaction with the Warp and some of its potential powers and benifits. An untouchable may not for example, under any normal circumstances enter into a Dark Pact with a warp entity or receive the benefits of beneficial psychic powers, sorcery or true faith. They may not learn sorcery or take any talents associated with it and may not have faith talents (see pages 50-51 of T he I nquisitor ’ s Handbook ). A force weapon, daemon weapon, or occult artefact (or the like) in the hands of an untouchable is merely a weapon or object of its type. The untouchable may not unleash or benefit from any of the weapon’s special powers or abilities, or (in the case of a daemon weapon) master it. However, the same also applies to such items and weapons used against the untouchable. Other than base damage listed (a sword in the guts is still a sword in the guts after all) any other particular effect such a weapon would normally have on the untouchable is likewise ignored.  
+Because of their unique place in the universe of Warhammer 40,000, untouchables in games may bring up odd questions about their nature in the rules and options such characters may take. In all cases it is up to the GM’s own good sense and judgment to decide how they are handled.
 
 ## Faith Powers
 ![Faith Powers](../images/FaithPowers.png)
