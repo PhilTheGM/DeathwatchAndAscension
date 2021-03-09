@@ -15,7 +15,7 @@ Allow quicker creation of characters for Deathwatch and high level Dark Heresy g
 ## Content
 
 * [House Rules](HouseRules.md) - Suggested house rules to make gamesplay faster and/or more fun.
-* Wargear - Weapons, armor and gear, predominatly for use by Attached Operatives.
+* [Wargear](Wargear.md) - Weapons, armor and gear, predominatly for use by Attached Operatives.
 
 ### Character Creation
 
