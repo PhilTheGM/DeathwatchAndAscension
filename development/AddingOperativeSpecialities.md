@@ -17,7 +17,7 @@ A speciality is an area of expertise that a character will be suited towards. Ea
   - A cheep advancement row is `200, 500, 1000, 1500`  
   - An average advancement row is `500, 1000, 1500, 2000`  
   - A expensive advancement row is `750, 1500, 2000, 5000`
-10. A list of skill and talent advancements using the table in [AddingNewAttachedOperativeOrganisations](AddingNewAttachedOperativeOrganisations.md) as a guide.  
+10. A list of skill and talent advancements using the table in the [organisations design document](AddingOperativeOrganisations.md) as a guide.  
   - Advancements cost a multiple of 100xp.  
   - *Peer(Deathwatch)* if available will be truly useful, and a prerequisite to Deathwatch Indoctrination and should  be costed using 500xp as a guide, before how thematic is factored in.  
   - *Deathwatch Indoctrination* always costs 1200xp, thus closing its availability to starting characters.  
