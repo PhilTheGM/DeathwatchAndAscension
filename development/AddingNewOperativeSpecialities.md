@@ -6,8 +6,9 @@ A speciality is an area of expertise that a character will be suited towards. Ea
 1. A name
 2. A choice between 2 characteristics to get a +5 in
 3. A list of skills and talents that everyone from this archetype, at a high level should have gained.
-4. An ability to pick X skills and talents from a list. The list should include interesting subversions of the archetype and thematic expensive abilities in a 3:4 ratio.
-  - To calculate X take the cost of free skills awarded by the speciality's organization. Add that to the abilities gained in step 3 and divide by 500. X is this number taken from 24. `24 - ((Organization XP + Speciality XP) / 500)`
+4. An ability to pick X skills and talents from a list. The list should include interesting subversions of the archetype and thematic expensive abilities in a 3:4 ratio.  
+  - To calculate X take the cost of free skills awarded by the speciality's organization. Add that to the abilities gained in step 3 and divide by 500. X is this number taken from 24. `24 - ((Organization XP + Speciality XP) / 500)`  
+  - Players should be able to select from this list without beeing forced to subvert their character's architype in any way.
 6. A special rule that is thematic to this speciality.
 7. A specialist use of faith points that is thematic to this speciality.
 8. A list of equipment packages to allow as many as possible recognizable high level versions of this character as possible
@@ -16,7 +17,7 @@ A speciality is an area of expertise that a character will be suited towards. Ea
   - A cheep advancement row is `200, 500, 1000, 1500`  
   - An average advancement row is `500, 1000, 1500, 2000`  
   - A expensive advancement row is `750, 1500, 2000, 5000`
-10. A list of skill and talent advancements using the table in [AddingNewAttachedOperativeOrganisations](AddingNewAttachedOperativeOrganisations.md) as a guide. 
+10. A list of skill and talent advancements using the table in [AddingNewAttachedOperativeOrganisations](AddingNewAttachedOperativeOrganisations.md) as a guide.  
   - Advancements cost a multiple of 100xp.  
   - *Peer(Deathwatch)* if available will be truly useful, and a prerequisite to Deathwatch Indoctrination and should  be costed using 500xp as a guide, before how thematic is factored in.  
   - *Deathwatch Indoctrination* always costs 1200xp, thus closing its availability to starting characters.  
