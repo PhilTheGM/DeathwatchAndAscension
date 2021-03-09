@@ -21,8 +21,8 @@ The standard basic or pistol las weapon has a variable setting option, allowing 
 
 ![Ranged Weapons 3](images/BoMRangedWeapons.png)
 #### Godwyn-De'az Bolt Pistol
-|           Name           |  Class | Range |  RoF  |    Dam  | Pen | Clip |  Rld |      Special      |  Wt | Availability |
-| ************************ | ****** | ***** | ***** | ******* | *** | **** | **** | ***************** | *** | ************ |
+|           Name           |  Class | Range |  RoF  |   Dam   | Pen | Clip |  Rld |      Special      |  Wt | Availability |
+| ------------------------ | ------ | ----- | ----- | ------- | --- | ---- | ---- | ----------------- | --- | ------------ |
 | Godwyn-De'az Bolt Pistol | Pistol |  30m  | S/2/- | 1d10+5X |  4  |   10 | Full | Rearing, Reliable | 3kg |   Very Rare  |
 
 ![Ranged Weapons 4](images/AscRangedWeapons1.png)
