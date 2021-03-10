@@ -123,8 +123,8 @@ Characteristics:
 
 * +5 BS or T
 * **You Gain**: Tactics(Any), Bolter Drill, Two Weapon Wielder(Balistic), Pistol Weapon Training(Any), Basic Weapon Training(Any), Melee Weapon Training(Any), Heavy Weapon Training(Any)
-* **Pick 6 of the following**:  Awareness, Carouse, Disguise, Psynescience, Sleight of Hand, Tactics(Any) x 2, Tactics(Any) +10, Speak Language(Any), Trade(Any), Anbidexterous, Two Weapon Wielder(Any), Good Reputation(Any), Untouchable, Faith Talent x 2
-* Once per combat, as a free action you can asertain the location of all characters that you have hatred towards, within 100 meters. You do not gain an insight to the nature of what you detect, only it's location. Aditionally, you may use this ability out of combat once per session.
+* **Pick 2 of the following**: Carouse, Psynescience, Sleight of Hand, Tactics(Any) x 2, Tactics(Any) +10, Speak Language(Any), Trade(Any), Anbidexterous, Two Weapon Wielder(Any), Good Reputation(Any), Untouchable
+* Once per combat, as a half action you can asertain the location of all characters that you have hatred towards, within 100 meters. You do not gain an insight to the nature of what you detect, only it's location. Aditionally, you may use this ability out of combat once per session.
 * Once per combat may spend a fate point to to make an estra attack against a foe that you have hatred against.
 * **Equipment**:
   * You can choose 1 from the following list:
