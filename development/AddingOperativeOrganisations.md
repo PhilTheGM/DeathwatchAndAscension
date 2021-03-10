@@ -4,7 +4,7 @@ An organisation is a high level template for characters who might work with the 
 
 ### All Organizations Should Have
 1. A name.
-2.  5 to 2 thematic Characteristics.
+2.  +5 to 2 thematic Characteristics.
 3. List of skills that everyone from that organisation would be expected to have at when they have become a master of their trade. Nothing here should be at more than 10.
 4. List of talents that everyone from that organisation would be expected to have at when they have become a master of their trade. 
 5. Optionally Skill/Talent packages can be given to allow characters to have a secondary area of specialization. Each package should be roughly equivenent in power/XP cost
