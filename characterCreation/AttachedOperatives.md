@@ -31,10 +31,7 @@ Although the advancement chart is not segregated by rank, operatives rank increa
 ### Inquisition
 
 * +5 to any 2 Characteristics
-* **Start with**: Speak Language(Low Gothic), Pistol Weapon Training(Las or Solid Projectile), Basic Weapon Training(Las or Solid Projectile), Weapon Training (Low Tech), Literacy
-* Trained in any 12 of the following. +10 in another 2: Acrobatics, Barter, Charm, Common Lore(any), Concealment, Deceive, Drive(any), Evaluate, Gamble, Inquiry, Interrogation, Lip Reading, Literacy, Logic, Medicae, Navigate(any), Performer(any), Pilot(any), Security, Search, Silent Move, Sleight of Hand, Speak Language(any), Survival, Swim, Tracking, Wrangling.
-* Trained in any 4 of the following: Lore: Scholastic(Any), Carouse, Command, Demolition, Disguise, Dodge, Intimidate, Lip Reading, Secret Tongue, Shadowing, Tactics, Trade(Any)
-* +10 in any 2 of the following: Ciphers(Any), Chem-Use, Contortionist, Forbidden Lore(Any)
+* **Start with**: Basic Weapon Training(Las or Solid Projectile), Ciphers(Any), Deceive, Inquiry, Interrogation, Literacy, Lore: Common(any), Melee Weapon Training (Low Tech), Pistol Weapon Training(Las or Solid Projectile), Search, Speak Language(Low Gothic),  
 * **Talents**: Peer(Inquisition), Optionally pick 1 more peer, but also gain 1 enemy. 
 * **Hitpoints**: 10
 * **Fate Points**: 1=2, 2-5=3, 6-9=4, 10=5
@@ -50,7 +47,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
 ### Adepta Sororitas
 
 * +5 to Willpower and either Weapon Skill or Ballistic Skill
-* **Start with**: Acrobatics, Awareness, Chiphers(Sororitas Battle Cant), Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Scholastic Lore(Philosophy), Speak Language(Low Gothic, High Gothic), Chiphers(Sororitas Battle Cant), Perforer(Singer), Literacy
+* **Start with**: Acrobatics, Awareness, Chiphers(Sororitas Battle Cant), Climb, Common Lore(Ecclesiarcy, Imperial Creed), Dodge, Scholastic Lore(Philosophy), Speak Language(Low Gothic, High Gothic),  Perforer(Singer), Literacy
 *  **Talents**: Basic Weapon Training(Bolt), Hatred(Heretics, Mutants, Psykers), Heavy Weapon Training(Bolt), Melee Training (Low Tech, Chain), Nerves of Steel, Pistol Weapon Training(Bolt), Quickdraw, True Faith
 * **Choose 1 of The Following**: 
   * Basic Weapon Training(Flame), Heavy Weapon Training(Flame), Pistol Weapon Training(Flame), Cleanse and Purify
