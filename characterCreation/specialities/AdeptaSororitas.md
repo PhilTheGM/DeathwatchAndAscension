@@ -1,7 +1,7 @@
 # Adepta Sororitas Specialties:
 These specialties are available to [Attached Operatives](../AttachedOperatives.md) from the Adepta Sororitas organisation.
 
-## Seraphic
+## Seraphim
 With mobility that rivals an assault marine and the hand of the Emperor on your shoulder, you bring death to precisely where it is needed on the battlefield.
 
 * +5 BS or Ag
@@ -118,7 +118,7 @@ Characteristics:
 | 500 | Talent | Faith Talent x 4 |
 | 800 | Talent | Faith Talent |
 
-## Celestial
+## Celestian
 A truly flexible warrior capable of engaging the enemy when they at the most opportune time and place, while being an inspiration for those around them.
 
 * +5 BS or T
