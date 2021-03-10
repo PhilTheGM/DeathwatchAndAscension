@@ -23,7 +23,7 @@ An organisation is a high level template for characters who might work with the 
 |               250xp             |            500xp        |           750xp         |         1000xp           |
 
 Other considerations are:
-* Theme: If the skill or talent is thematic for these type of character it should have a lower cost. Likewise, in the case of specializations if this
+* Theme: If the skill or talent is thematic for these type of character it should have a lower cost. Likewise, in the case of specializations.
 * Prerequisit: If they are a prerequisit for a very powerful ability then they may cost more. If they have a large number of prerequisits then they should cost less.
 * Weapom Training always costs 250 at this step. This is to match with the fact that Astartes basically start with weapon training in everything they need.
 
