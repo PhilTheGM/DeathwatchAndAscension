@@ -6,7 +6,7 @@ With mobility that rivals an assalt marine and the hand of the Emperor on your s
 
 * +5 BS or Ag
 * **You Gain**: Pilot(Personal), Tactics(Assault), Ambidexterous, Two Weapon Wielder(Balistic), Pistol Weapon Training(Flame or Melta)
-* **Pick 6 of the following**: Acrobatics +10, Awareness +10, Contortionist, Demolition, Intimidate, Navigate(Surface), Shadowing, Silent Move, Survival, Pilot(Any), Pilot(Personal) +10,Tracking, Assasin Strike, Gunslinger,  Faith Talent, Hatred(Any), Leap Up, Two Weapon Wielder(Melee), True Grit, Untouchable.
+* **Pick 3 of the following**: Demolition, Intimidate, Shadowing, Silent Move, Tracking, Assasin Strike, Gunslinger, Hatred(Any), True Grit, Untouchable.
 * Once per combat, as a reaction, you can declare you have Unnatural Toughness(3) for a full turn. Warp based attacks (including those made by deamons) will count you you as having Unnatural Toughness(4).
 * You may spend a fate point to act in the suprise round of a combat. If you do so, you do not count as being suprised.
 * **Equipment**:
@@ -35,7 +35,6 @@ Characteristics:
 |  200 |  Skill | Acrobatics |
 |  200 |  Skill | Acrobatics +10 |
 |  400 |  Skill | Acrobatics +20 |
-|  200 |  Skill | Awareness |
 |  200 |  Skill | Awareness +10 |
 |  400 |  Skill | Charm |
 |  500 |  Skill | Chipers(Inquisition) |
@@ -114,6 +113,7 @@ Characteristics:
 |  400 | Talent | Take Down |
 |  200 | Talent | Target Selection |
 |  700 | Talent | True Grit |
+|  500 | Talent | Two Weapon Wielder(Melee) |
 |  200 | Talent | Unarmed Warrior |
 |  300 | Talent | Faith Talent x 3 |
 |  500 | Talent | Faith Talent x 4 |
