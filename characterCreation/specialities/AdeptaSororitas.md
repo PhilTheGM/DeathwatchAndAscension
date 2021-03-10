@@ -57,9 +57,9 @@ Characteristics:
 | 500 | Skill | Lore: Common(Eclesiarchy) +10 |
 | 500 | Skill | Lore: Common(Imperial Creed) +10 |
 | 500 | Skill | Lore: Scholastic(Philosophy) +10 |
-| 700 | Skill | Lore: Forbidden(Heresy) +10 |
-| 500 | Skill | Lore: Forbidden(Mutants) +10 |
-| 700 | Skill | Lore: Forbidden(Psykers) +10 |
+| 700 | Skill | Lore: Forbidden(Heresy) |
+| 500 | Skill | Lore: Forbidden(Mutants) |
+| 700 | Skill | Lore: Forbidden(Psykers) |
 | 500 | Skill | Medicae |
 | 400 | Skill | Navigate(Surface) |
 | 200 | Skill | Pilot(Personal) +10 |
@@ -171,9 +171,9 @@ Characteristics:
 | 400 | Skill | Lore: Common(Imperial Creed) +10 |
 | 500 | Skill | Lore: Common(Any) |
 | 400 | Skill | Lore: Scholastic(Philosophy) +10 |
-| 400 | Skill | Lore: Forbidden(Heresy) +10 |
-| 500 | Skill | Lore: Forbidden(Mutants) +10 |
-| 700 | Skill | Lore: Forbidden(Psykers) +10 |
+| 400 | Skill | Lore: Forbidden(Heresy) |
+| 500 | Skill | Lore: Forbidden(Mutants) |
+| 700 | Skill | Lore: Forbidden(Psykers) |
 | 400 | Skill | Medicae |
 | 400 | Skill | Navigation(Surface) |
 | 400 | Skill | Navigation(Surface) +10 |
