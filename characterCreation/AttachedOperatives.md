@@ -53,7 +53,7 @@ Members of the Inquisition my select one speciality from the [Inquisition Specia
   * Basic Weapon Training(Flame), Heavy Weapon Training(Flame), Pistol Weapon Training(Flame), Cleanse and Purify
   * Basic Weapon Training(Melta), Heavy Weapon Training(Melta), Pistol Weapon Training(Melta)
   * Melee Weapon Training(Power), Swift Attack, Hatred(Any)
-  * Drive(Any), Drive(Any) +10, Navigate(Any)
+  * Drive(Any), Drive(Any) +10, Navigate(Surface)
   * Pilot(Any), Pilot(Any) +10, Navigate(Any)
 * **Any 5 of The Following**: Command, Charm, Contortionist, Interrogation, Lip Reading, Dodge +10, Intimidate, Jaded, Search, Swim, Flagallent, Hatred(Xenos), Hardy, Tech Use.
 * **Hitpoints**: 12
