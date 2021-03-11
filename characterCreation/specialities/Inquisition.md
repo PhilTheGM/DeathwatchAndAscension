@@ -5,8 +5,8 @@ These specialities are available to [Attached Operatives](../AttachedOperatives.
 As a desperado you can blend with the crowd in a way that would be impossible for a Space Marine under any circumstances. He has the connections to get information that would be obscured to others, and the skill to win any bar room shootout.
 
 * +5 BS or Ag
-* **You Gain**: Peer(Underworld, Any 1), Pistol Weapon Training(bolt)
-* **Pick 7 of the following**: Ambidextrous, Basic Weapon Training(bolt), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma or flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Gunslinger, Quick Draw, Disguise, Dodge +10, Security +10, Sleight of Hand +10
+* **You Gain**: Concealment, Carouse,  Decieve +10, Dodge, Disguise, Gamble, Security, Sleight of Hand, Silent Move, Security, Peer(Underworld, Any 1), Pistol Weapon Training(bolt, any), Quick Draw
+* **Pick 3 of the following**: Ambidextrous, Basic Weapon Training(bolt), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma), Pistol Weapon Training(flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Gunslinger, Dodge +10, Security +10, Untouchable
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * **Equipment**:
@@ -52,7 +52,6 @@ Characteristics:
 |  400 |  Skill | Concealment +20 |
 |  400 |  Skill | Disguise |
 |  400 |  Skill | Disguise +10 |
-|  400 |  Skill | Decieve |
 |  400 |  Skill | Decieve +10 |
 |  400 |  Skill | Decieve +20 |
 |  400 | Talent | Talented(Decieve) |
@@ -64,10 +63,9 @@ Characteristics:
 |  200 |  Skill | Gamble |
 |  200 |  Skill | Gamble +10 |
 |  400 |  Skill | Gamble +20 |
-|  400 |  Skill | Inquiry |
 |  400 |  Skill | Inquiry +10 |
 |  400 |  Skill | Inquiry +20 |
-|  400 |  Skill | Interogation |
+|  400 |  Skill | Interogation +10 |
 |  400 |  Skill | Intimidate |
 |  500 |  Skill | Intimidate +10 |
 |  400 |  Skill | Lip Reading |
@@ -81,20 +79,16 @@ Characteristics:
 |  400 |  Skill | Pilot(Flyer) |
 |  400 |  Skill | Scrutiny |
 |  400 |  Skill | Scrutiny +10 |
-|  400 |  Skill | Search |
-|  400 |  Skill | Security |
+|  400 |  Skill | Search +10 |
 |  400 |  Skill | Security +10 |
 |  400 |  Skill | Security +20 |
 |  500 | Talent | Talented(Security) |
-|  200 |  Skill | Shadowing |
 |  200 |  Skill | Shadowing +10 |
 |  400 |  Skill | Shadowing +20 |
 |  500 |  Skill | Talented(Shadowing) |
-|  200 |  Skill | Silent Move |
 |  200 |  Skill | Silent Move +10 |
 |  400 |  Skill | Silent Move +20 |
 |  500 |  Skill | Talented(Silent Move) |
-|  200 |  Skill | Sleight of Hand |
 |  200 |  Skill | Sleight of Hand +10 |
 |  400 |  Skill | Sleight of Hand +20 |
 |  500 | Talent | Talented(Sleight of Hand) |
@@ -105,13 +99,19 @@ Characteristics:
 |  500 |  Skill | Tracking |
 |  200 |  Skill | Wrangling |
 |  200 |  Skill | Wrangling +10 |
+|  700 | Talent | Ambidexterous |
+|  200 | Talent | Basic Weapon Training(bolt) |
+|  400 | Talent | Basic Weapon Training(flame) |
+|  300 | Talent | Concealed Blade |
 |  600 | Talent | Peer(Deathwatch) |
+|  800 | Talent | Pistol Weapon Training(melta) |
+|  500 | Talent | Pistol Weapon Training(plasma) |
+|  400 | Talent | Pistol Weapon Training(flame) |
 | 1200 | Talent | Deathwatch Indoctrination |
 |  500 | Talent | Dual Shot |
 |  400 | Talent | Gunslinger |
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
-|  500 | Talent | Quick Draw |
 |  600 | Talent | Hard Target |
 |  200 | Talent | Sound Constitution x 2 |
 |  500 | Talent | Sound Constitution x 6 |
@@ -124,6 +124,7 @@ Characteristics:
 |  400 | Talent | Lightning Reflexes |
 |  700 | Talent | Sprint |
 |  200 | Talent | Terifying Truths |
+|  500 | Talent | Two Weapon Wielder(Ballistic) |
 |  700 | Talent | Untouchable |
 
 ## Arbite Seeker:
