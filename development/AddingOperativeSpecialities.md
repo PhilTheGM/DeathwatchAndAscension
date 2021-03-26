@@ -86,17 +86,17 @@ Characteristics:
 |   |  Skill | Performer() |
 |   |  Skill | Pilot() |
 |   |  Skill | Psyniscience |
-|   |  Skill | Security |
 |   |  Skill | Scrutiny |
 |   |  Skill | Search |
+|   |  Skill | Security |
 |   |  Skill | Shadowing |
 |   |  Skill | Silent Move |
 |   |  Skill | Sleight of Hand |
 |   |  Skill | Speak Language() |
 |   |  Skill | Survival |
 |   |  Skill | Swim |
-|   |  Skill | Tactics() |
 |   |  Skill | Tech Use |
+|   |  Skill | Tactics() |
 |   |  Skill | Tracking |
 |   |  Skill | Trade |
 |   |  Skill | Wrangling |
