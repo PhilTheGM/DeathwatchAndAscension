@@ -103,13 +103,13 @@ Characteristics:
 |  700 | Talent | Ambidexterous |
 |  200 | Talent | Basic Weapon Training(bolt) |
 |  400 | Talent | Basic Weapon Training(flame) |
-|   | Talent | Blind Fighting |
-|   | Talent | Catfall |
-|   | Talent | Chem Geld |
-|   | Talent | Combat Sense |
+|  400 | Talent | Blind Fighting |
+|  400 | Talent | Catfall |
+|  400 | Talent | Chem Geld |
+|  500 | Talent | Combat Sense |
 |  300 | Talent | Concealed Blade |
-|   | Talent | Crack Shot |
-|   | Talent | Dead eye shot |
+|  400 | Talent | Crack Shot |
+|  500 | Talent | Dead eye shot |
 |  400 | Talent | Good Reputation(Underworld) |
 |  600 | Talent | Peer(Deathwatch) |
 |  800 | Talent | Pistol Weapon Training(melta) |
@@ -121,32 +121,32 @@ Characteristics:
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
 |  600 | Talent | Hard Target |
-|   | Talent | Independant Targeting |
-|   | Talent | Jaded |
-|   | Talent | Lightning Reflexes |
-|   | Talent | Melee Weapon Training(Any) |
-|   | Talent | Mighty Shot |
-|   | Talent | Mimic |
-|   | Talent | Nerves of Steel |
-|   | Talent | Paranoia |
+|  500 | Talent | Independant Targeting |
+|  600 | Talent | Jaded |
+|  200 | Talent | Lightning Reflexes |
+|  500 | Talent | Melee Weapon Training(Any) |
+|  700 | Talent | Mighty Shot |
+|  400 | Talent | Mimic |
+|  600 | Talent | Nerves of Steel |
+|  600 | Talent | Paranoia |
 |  400 | Talent | Peer(Administratum) |
 |  200 | Talent | Peer(Workers) |
 |  200 | Talent | Peer(Middle Class) |
 |  500 | Talent | Peer(Any) |
-|   | Talent | Rapid Reaction |
-|   | Talent | Rapid Reload |
+|  300 | Talent | Rapid Reaction |
+|  500 | Talent | Rapid Reload |
 |  200 | Talent | Sound Constitution x 2 |
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  800 | Talent | Swift Attack |
 |  400 | Talent | Lightning Reflexes |
 |  700 | Talent | Sprint |
-|   | Talent | Street Fighting |
-|   | Talent | Take Down |
-|   | Talent | Target Selection |
+|  400 | Talent | Street Fighting |
+|  400 | Talent | Take Down |
+|  500 | Talent | Target Selection |
 |  200 | Talent | Terifying Truths |
 |  500 | Talent | Two Weapon Wielder(Ballistic) |
-|   | Talent | Unarmed Warrior |
+|  600 | Talent | Unarmed Warrior |
 |  700 | Talent | Untouchable |
 
 ## Arbite Seeker:
@@ -348,24 +348,23 @@ Characteristics:
 |  700 |  Skill | Skill(Any) +20 x 7  |
 |  700 | Talent | Talented(Any) x 3  |
 |  500 | Talent | Air of Athority |
-|   | Talent | Chem Geld |
-|   | Talent | Combat Sense |
+|  200 | Talent | Chem Geld |
+|  400 | Talent | Combat Sense |
 |  700 | Talent | Concealed Cavity |
-|   | Talent | Counter Attack |
-|   | Talent | Deflect Shot |
-|   | Talent | Disarm |
-|   | Talent | Disturbing Voice |
-|   | Talent | Double Team |
-|   | Talent | Disarm |
+|  600 | Talent | Counter Attack |
+|  500 | Talent | Deflect Shot |
+|  500 | Talent | Disarm |
+|  300 | Talent | Disturbing Voice |
+|  500 | Talent | Double Team |
 | 1000 | Talent | Fearless |
-|   | Talent | Forsight |
+|  300 | Talent | Forsight |
 |  700 | Talent | Good Reputation(Any) x 4 |
-|   | Talent | Gunslinger |
-|   | Talent | Hatred(Any) x2 |
-|   | Talent | Infused Knowledge |
-|   | Talent | Inspire Wrath |
-|   | Talent | Jaded |
-|   | Talent | Light Sleeper |
+|  600 | Talent | Gunslinger |
+|  600 | Talent | Hatred(Any) x2 |
+|  700 | Talent | Infused Knowledge |
+|  600 | Talent | Inspire Wrath |
+|  500 | Talent | Jaded |
+|  600 | Talent | Light Sleeper |
 |  500 | Talent | Peer(Any) x 4 |
 |  700 | Talent | Fearless |
 |  500 | Talent | Hip Shooting |
@@ -382,12 +381,12 @@ Characteristics:
 |  200 | Talent | Psy Rating |
 |  500 | Talent | Psy Rating x 2 |
 | \*var | Talent | Psychic Tecnique x 4 |
-|   | Talent | Resistance(Fear) |
+|  500 | Talent | Resistance(Fear) |
 |  200 | Talent | Sound Constitution x 3 |
 |  500 | Talent | Sound Constitution x 3 |
-|   | Talent | Step Aside |
-|   | Talent | Swift Attack |
-|   | Talent | Terifying Truths |
+|  700 | Talent | Step Aside |
+|  700 | Talent | Swift Attack |
+|  200 | Talent | Terifying Truths |
 
 ## Savage Champion:
 Though you have little inderstanding of the greater Imperium and your aptitude with technology is primitive compaired with the average Imperial citizen, on your home planet you are a warrior and hunter beyond compair. Perhaps you are a famous, near-mythical, hero. Perhaps you are a rebal or a ghost operative. Either way you are a master of your home terain. Beside a space marine you are a scout, a guide and a fountan of local knowledge. To a space marine of the right chapter you may very much remind them of their own previous life as a mortal.
