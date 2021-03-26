@@ -50,16 +50,17 @@ Characteristics:
 |  200 |  Skill | Concealment |
 |  200 |  Skill | Concealment +10 |
 |  400 |  Skill | Concealment +20 |
-|  400 |  Skill | Disguise |
-|  400 |  Skill | Disguise +10 |
-|  400 |  Skill | Decieve +10 |
+|  400 |  Skill | Contortionist |
 |  400 |  Skill | Decieve +20 |
 |  400 | Talent | Talented(Decieve) |
+|  400 |  Skill | Disguise |
+|  400 |  Skill | Disguise +10 |
 |  200 |  Skill | Dodge |
 |  200 |  Skill | Dodge +10 |
 |  400 |  Skill | Dodge +20 |
 |  400 |  Skill | Drive(Surface) |
 |  400 |  Skill | Drive(Skimmer) |
+|  500 |  Skill | Evaluate |
 |  200 |  Skill | Gamble |
 |  200 |  Skill | Gamble +10 |
 |  400 |  Skill | Gamble +20 |
@@ -102,7 +103,14 @@ Characteristics:
 |  700 | Talent | Ambidexterous |
 |  200 | Talent | Basic Weapon Training(bolt) |
 |  400 | Talent | Basic Weapon Training(flame) |
+|   | Talent | Blind Fighting |
+|   | Talent | Catfall |
+|   | Talent | Chem Geld |
+|   | Talent | Combat Sense |
 |  300 | Talent | Concealed Blade |
+|   | Talent | Crack Shot |
+|   | Talent | Dead eye shot |
+|  400 | Talent | Good Reputation(Underworld) |
 |  600 | Talent | Peer(Deathwatch) |
 |  800 | Talent | Pistol Weapon Training(melta) |
 |  500 | Talent | Pistol Weapon Training(plasma) |
@@ -113,18 +121,32 @@ Characteristics:
 |  700 | Talent | Hip Shooting |
 |  500 | Talent | Unremarkable |
 |  600 | Talent | Hard Target |
+|   | Talent | Independant Targeting |
+|   | Talent | Jaded |
+|   | Talent | Lightning Reflexes |
+|   | Talent | Melee Weapon Training(Any) |
+|   | Talent | Mighty Shot |
+|   | Talent | Mimic |
+|   | Talent | Nerves of Steel |
+|   | Talent | Paranoia |
+|  400 | Talent | Peer(Administratum) |
+|  200 | Talent | Peer(Workers) |
+|  200 | Talent | Peer(Middle Class) |
+|  500 | Talent | Peer(Any) |
+|   | Talent | Rapid Reaction |
+|   | Talent | Rapid Reload |
 |  200 | Talent | Sound Constitution x 2 |
 |  500 | Talent | Sound Constitution x 6 |
 |  800 | Talent | Step Aside |
 |  800 | Talent | Swift Attack |
-|  400 | Talent | Peer(Administratum) |
-|  200 | Talent | Peer(Workers) |
-|  200 | Talent | Peer(Middle Class) |
-|  400 | Talent | Good Reputation(Underworld) |
 |  400 | Talent | Lightning Reflexes |
 |  700 | Talent | Sprint |
+|   | Talent | Street Fighting |
+|   | Talent | Take Down |
+|   | Talent | Target Selection |
 |  200 | Talent | Terifying Truths |
 |  500 | Talent | Two Weapon Wielder(Ballistic) |
+|   | Talent | Unarmed Warrior |
 |  700 | Talent | Untouchable |
 
 ## Arbite Seeker:
@@ -254,16 +276,97 @@ Characteristics:
 
 | Cost | Type |       Advance       |
 |------|------|---------------------|
+|  600 |  Skill | Awreness |
+|  500 |  Skill | Carouse |
+|  600 |  Skill | Carouse +10 |
+|  200 |  Skill | Charm |
+|  400 |  Skill | Charm +10 |
+|  600 |  Skill | Charm +20 |
+|  400 |  Skill | Chem Use |
+|  600 |  Skill | Chem Use +10 |
+|  400 |  Skill | Chipers(Any) x2 |
+|  500 |  Skill | Chipers(Any) +10 x2 |
+|  500 |  Skill | Chipers(Any) +20 |
+|  500 |  Skill | Command |
+|  600 |  Skill | Command +10 |
+|  700 |  Skill | Command +20 |
+|  400 |  Skill | Concealment |
+|  400 |  Skill | Decieve +10 |
+|  500 |  Skill | Decieve +20 |
+|  400 |  Skill | Disguise |
+|  500 |  Skill | Dodge |
+|  600 |  Skill | Drive(Any) |
+|  200 |  Skill | Evaluate |
+|  200 |  Skill | Evaluate +10 |
+|  400 |  Skill | Evaluate +20 |
+|  400 |  Skill | Gamble |
+|  200 |  Skill | Inquiry +10 |
+|  400 |  Skill | Inquiry +20 |
+|  200 |  Skill | Interrogation +10 |
+|  200 |  Skill | Interrogation +20 |
+|  500 | Talent | Talented(Interrogation) |
+|  400 |  Skill | Intimidate |
+|  500 |  Skill | Intimidate +10 |
+|  400 |  Skill | Invocation |
+|  600 |  Skill | Invocation +10 |
+|  400 |  Skill | Lip Reading |
+|  500 |  Skill | Literacy +10 |
+|  400 |  Skill | Logic |
+|  400 |  Skill | Logic +10 |
+|  500 |  Skill | Lore: Common(Any) x 5 |
+|  500 |  Skill | Lore: Common(Any) +10 x 3 |
+|  700 |  Skill | Lore: Common(Any) +20 |
+|  500 |  Skill | Lore: Scolastic(Any) x 5 |
+|  500 |  Skill | Lore: Scolastic(Any) +10 x 3 |
+|  700 |  Skill | Lore: Scolastic(Any) +20 |
+|  500 |  Skill | Lore: Forbidden(Any) x 3 |
+|  600 |  Skill | Lore: Forbidden(Any) +10 x 2 |
+|  700 |  Skill | Lore: Forbidden(Any) +20 |
+|  600 |  Skill | Medicae |
+|  600 |  Skill | Medicae +10 |
+|  300 |  Skill | Performer(Story Teller) |
+|  600 |  Skill | Pilot(Any) |
+|  500 |  Skill | Psyniscience |
+|  600 |  Skill | Security |
+|  200 |  Skill | Scrutiny |
+|  200 |  Skill | Scrutiny +10 |
+|  400 |  Skill | Scrutiny +20 |
+|  500 | Talent | Talented(Scrutiny) |
+|  600 |  Skill | Search |
+|  600 |  Skill | Shadowing |
+|  600 |  Skill | Shadowing +10 |
+|  500 |  Skill | Silent Move |
+|  500 |  Skill | Sleight of Hand |
+|  500 |  Skill | Speak Language(Any) x2 |
+|  700 |  Skill | Survival |
+|  600 |  Skill | Tactics(Any) |
+|  600 |  Skill | Tech Use |
+|  600 |  Skill | Tracking |
+|  200 |  Skill | Trade(Any) |
 |  700 |  Skill | Skill(Any) x 7 |
 |  700 |  Skill | Skill(Any) +10 x 7 |
 |  700 |  Skill | Skill(Any) +20 x 7  |
 |  700 | Talent | Talented(Any) x 3  |
 |  500 | Talent | Air of Athority |
+|   | Talent | Chem Geld |
+|   | Talent | Combat Sense |
 |  700 | Talent | Concealed Cavity |
-|  500 | Talent | Peer(Any) x 4 |
+|   | Talent | Counter Attack |
+|   | Talent | Deflect Shot |
+|   | Talent | Disarm |
+|   | Talent | Disturbing Voice |
+|   | Talent | Double Team |
+|   | Talent | Disarm |
+| 1000 | Talent | Fearless |
+|   | Talent | Forsight |
 |  700 | Talent | Good Reputation(Any) x 4 |
-|  200 | Talent | Sound Constitution x 3 |
-|  500 | Talent | Sound Constitution x 3 |
+|   | Talent | Gunslinger |
+|   | Talent | Hatred(Any) x2 |
+|   | Talent | Infused Knowledge |
+|   | Talent | Inspire Wrath |
+|   | Talent | Jaded |
+|   | Talent | Light Sleeper |
+|  500 | Talent | Peer(Any) x 4 |
 |  700 | Talent | Fearless |
 |  500 | Talent | Hip Shooting |
 |  500 | Talent | Inspire Wrath |
@@ -272,9 +375,19 @@ Characteristics:
 |  500 | Talent | Jaded |
 |  500 | Talent | Light Sleeper |
 |  500 | Talent | Mimic |
+|  500 | Talent | Nerves of Steel |
+|  500 | Talent | Orthoproxy |
+|  500 | Talent | Paranoia |
+|  500 | Talent | Polygot |
 |  200 | Talent | Psy Rating |
 |  500 | Talent | Psy Rating x 2 |
-| \*var | Talent | Psychic Power x 4 |
+| \*var | Talent | Psychic Tecnique x 4 |
+|   | Talent | Resistance(Fear) |
+|  200 | Talent | Sound Constitution x 3 |
+|  500 | Talent | Sound Constitution x 3 |
+|   | Talent | Step Aside |
+|   | Talent | Swift Attack |
+|   | Talent | Terifying Truths |
 
 ## Savage Champion:
 Though you have little inderstanding of the greater Imperium and your aptitude with technology is primitive compaired with the average Imperial citizen, on your home planet you are a warrior and hunter beyond compair. Perhaps you are a famous, near-mythical, hero. Perhaps you are a rebal or a ghost operative. Either way you are a master of your home terain. Beside a space marine you are a scout, a guide and a fountan of local knowledge. To a space marine of the right chapter you may very much remind them of their own previous life as a mortal.
