@@ -6,7 +6,7 @@ As a desperado you can blend with the crowd in a way that would be impossible fo
 
 * +5 BS or Ag
 * **You Gain**: Concealment, Carouse,  Decieve +10, Dodge, Disguise, Gamble, Security, Sleight of Hand, Silent Move, Security, Peer(Underworld, Any 1), Pistol Weapon Training(bolt, any), Quick Draw
-* **Pick 3 of the following**: Ambidextrous, Basic Weapon Training(bolt), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma), Pistol Weapon Training(flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Gunslinger, Dodge +10, Security +10, Untouchable
+* **Pick 5 of the following**: Ambidextrous, Basic Weapon Training(bolt), Double Tap, Face in the Crowd, Pistol Weapon Training(plasma), Pistol Weapon Training(flame), Two Weapon Wielder(Ballistic), Sprint, Good Reputation(Underworld), Gunslinger, Dodge +10, Security +10, Untouchable
 * Once per round you can fire a pistol as a standard attack as part of your move action.
 * You may spend a fate point to automatically succeed on a Concealment, Disguise, Dodge, Security, Silent move, or Sleight of Hand roll. This can be done before or after the roll. In the case of dodge, this does not take your reaction for the turn.
 * **Equipment**:
@@ -248,10 +248,10 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
 
 * +5 Int or Wp
 * **You Gain**: Peer(Deathwatch, Any 1), Lore: Common(Any 2), Lore: Scholastic (Any 1), Lore: Forbidden(Any 1)
-* **Pick 7 of the following**: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
+* **Pick 8 of the following**: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
 * **Equipment**:
-  * Your your inquisitorial uniform counts as a suit of carapace (6AC all)
-  * You can choose 2 pistol, melee or exotic weapon. These may be astartes weapons.
+  * Your your inquisitorial uniform counts as a suit of carapace (6AP all)
+  * You can choose 2 pistol, melee or exotic weapons. These may be astartes weapons.
   * You may choose any 1 grenade. 
   * You may choose any 2 from the following list:
     * Weapon Upgrade
@@ -259,7 +259,7 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
     * Tools
     * Cybernetics
 * Once per game you may count as having any 1 skill or talent for the sake of a single test.
-* You may spend a fate point to automatically succeed an interrogation test with a number of degrees of success equal to his Willpower Bonus. At the GM's discretion this may be used to interrogate characters that would not normally be allowed to be interrogated.
+* You may spend a fate point to automatically succeed an interrogation test with a number of degrees of success equal to your willpower bonus. At the GM's discretion this may be used to interrogate characters that would not normally be allowed to be interrogated.
 
 Characteristics:
 |      |  +5  |  +10 |  +15 |  +20 |
