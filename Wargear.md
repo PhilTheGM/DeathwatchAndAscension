@@ -38,7 +38,12 @@ The standard basic or pistol las weapon has a variable setting option, allowing 
 ![Melee Weapons 1](images/DHMeleeWeapons.png)
 
 ## Armour
-![Armour 1](images/BoMPowerArmour.png)
+|           Name           |  Locations Cvered |       AP      |   Wt |      Req     |     Renown    |
+| ------------------------ | ----------------- | ------------- | ---- | ------------ | ------------- |
+| Sororitas Powered Armour |          All      | 7 (8 on Body) | 35kg |      N/A     |       -       |
+
+Commissionsed by Gog Vandire, it is the only part of his legacy that was not removed with his head. Created initially by the forges on Mars for the Adepta Sororitas, this lighter power armour provides excelent protection and increased strength with little to no reduction to movement speed or agility. The armour uses a simular power supply as the armourt of the Adeptus Astartes and does not run out of power unless damaged.  
+Sororitas Power armour adds +10 to the user's strength and the helmet includes an integrated targeter (+5 to BS), a rebreather (1 hour of oxygin supply), a com link and 4 doses of pain suppressor. The armour is environmentally sealed for limited us in void combat. Users with a heavy weapon treat it as braced.
 
 ![Armour 2](images/AscShield1.png)
 ![Armour 3](images/AscShield2.png)
