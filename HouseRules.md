@@ -63,5 +63,5 @@ Using your chapter's background and past as a guide you may choose your chapters
 #### Duplicates of the same Chapter
 The general rule of thumb here is to take the rules from the earlier book. For example the Flesh Tearers are presented in both Rites of Battle and Honour the Chapter. Take the rules in Rights of Battle. Novamarines have the exact same problem, and the exact same solution.
 
-#### First Founding Chapters with less Squad Modes/Solo Modes/Psychic Powers that the Storm Wardens
+#### First Founding Chapters with less Squad Modes/Solo Modes/Psychic Powers than the Storm Wardens
 I am aware of this issue, but I have never heard a complaint about it. If and when a complaint does arise I will try to come to a simple solution and document it here.
