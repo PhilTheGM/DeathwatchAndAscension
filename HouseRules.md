@@ -43,6 +43,9 @@ A mortal can fire an astartes weapon without modification to the weapon. Astarte
 The hit location rules that came with the original Dark Heresy 2nd edition beta (which were sinse scrapped) are faster and  easier to remember. In this system you take the units dice of your to-hit roll and compare them to the below chart.
 1=Head, 2=Left Arm, 3=Right Arm, 4-6=Chest, 7-8=Left Leg, 9-0=Right Leg.
 
+## Faith Points Before The Role
+Faith points can be spent before a test is rolled to give the character a +20.
+
 ## Errata
 The [Deathwatch Errata](DeathwatchErrata.pdf) fix a lot of issues and speeds up play. They are highly recommended!
 
