@@ -79,7 +79,6 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 
 #### Traditional Weapons
 
-![Ranged Weapons 1](images/DHRangedWeapons.png)
 ![Ranged Weapons 2](images/DHRangedWeapons1.png)
 ![Ranged Weapons 3](images/DHRangedWeapons2.png)
 
