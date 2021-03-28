@@ -5,8 +5,6 @@
 ### Melta
 This weapon doubles it pen value at short range.
 
-### Sanctified
-
 ### Variable Power
 Some weapons, such as standard las weapons, have a variable setting option, allowing it to fire higher-powered bursts. A weapon with this quality may be set to overcharge mode, dealing +1 damage, but using two shots worth of ammunition per shot fired. Further, the weapon may be set to overload mode, dealing +2 damage and gaining +2 penetration. In this case, it uses four shots of ammunition per shot fired, loses Reliable, and gains Unreliable.
 
