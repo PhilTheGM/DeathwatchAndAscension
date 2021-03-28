@@ -76,17 +76,30 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 | Heavy Flamer              |  Heavy |   30m | S/-/- |  2d10+4E |   4 |  10  | 2Full |                   Flame  |  45kg |      12      |       -       |
 
 #### Plasma Weapons
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |          Special         |   Wt  |      Req     |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | ------------------------ | ----- | ------------ | ------------- |
+| Plasma Pistol             | Pistol |   10m | S/-/- |  1d10+6E |   6 |  10  | 3Full |                Volotile  |   4kg |       8      |     Respected |
+| Plasma Gun                |  Basic |   90m | S/2/- |  1d10+6E |   6 |  20  | 4Full |                Volotile  |  11kg |      10      |     Respected |
+| Plasma Cannon             |  Heavy |  120m | S/-/- | 2d10+10E |   8 |  16  | 5Full |                Volotile  |  40kg |      20      | Distinguished |
 
 #### Traditional Weapons
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
+| Bolas                     | Thrown |   10m | S/-/- |     -    |   0 |   1  |   -   |     Primitive, Snare, Inacurate  | 1.5kg |       2      |       -       |
+| Hand Bow                  | Pistol |   15m | S/-/- |    1d10R |   0 |   1  |  Full |                       Primitive  |   1kg |       1      |       -       |
+| Flintlock Pistol          | Pistol |   15m | S/-/- |  1d10+2I |   0 |   1  | 3Full | Primitive, Unreliable, Inacurate |   4kg |       1      |       -       |
+| Musket                    |  Basic |   30m | S/-/- |  1d10+2I |   0 |   1  | 5Full | Primitive, Unreliable, Inacurate |   7kg |       2      |       -       |
+| Bow                       |  Basic |   30m | S/-/- |    1d10R |   0 |   1  |  Full |              Primitive, Reliable |   2kg |       2      |       -       |
+| Sling                     |  Basic |   15m | S/-/- |  1d10-2I |   0 |   1  |  Full |                       Primitive  | 0.5kg |       1      |       -       |
+| Crossbow                  |  Basic |   30m | S/-/- |    1d10R |   0 |   1  | 2Full |                       Primitive  |   3kg |       2      |       -       |
 
-![Ranged Weapons 2](images/DHRangedWeapons1.png)
-![Ranged Weapons 3](images/DHRangedWeapons2.png)
+![Ranged Weapons 1](images/DHRangedWeapons2.png)
 
-![Ranged Weapons 4](images/AscRangedWeapons1.png)
-![Ranged Weapons 5](images/AscRangedWeapons2.png)
-![Ranged Weapons 6](images/AscRangedWeapons3.png)
-![Ranged Weapons 7](images/AscRangedWeapons4.png)
-![Ranged Weapons 8](images/AscRangedWeapons5.png)
+![Ranged Weapons 2](images/AscRangedWeapons1.png)
+![Ranged Weapons 3](images/AscRangedWeapons2.png)
+![Ranged Weapons 4](images/AscRangedWeapons3.png)
+![Ranged Weapons 5](images/AscRangedWeapons4.png)
+![Ranged Weapons 6](images/AscRangedWeapons5.png)
 
 ### Melee Weapons
 ![Melee Weapons 1](images/DHMeleeWeapons.png)
