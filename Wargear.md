@@ -91,6 +91,27 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 | Sling                     |  Basic |   15m | S/-/- |  1d10-2I |   0 |   1  |  Full |                       Primitive  | 0.5kg |       1      |       -       |
 | Crossbow                  |  Basic |   30m | S/-/- |    1d10R |   0 |   1  | 2Full |                       Primitive  |   3kg |       2      |       -       |
 
+#### Launchers
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
+| Grenade Launcher          |  Basic |   60m | S/-/- |     *    |   * |   6  |  Full |                          *       |   9kg |       5      |       -       |
+| RPG Launcher              |  Heavy |  120m | S/-/- |     *    |   * |   1  |  Full |                          *       |  15kg |       6      |       -       |
+| Missile Launcher          |  Heavy |  300m | S/-/- |     *    |   * |   1  |  Full |                          *       |  35kg |      10      |       -       |
+*Damage, Armour Piercing and Special Qualities are determined by the ammunition (i.e. the grenade, for grenade launcher and rpg, missile for missile launcher) fired.
+
+#### Grenades and Missiles
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
+Frag Grenade
+Krak Grenade
+Blind Grenade
+Photon Flash Grenade
+Hallucinogen Grenade
+Fire Bomb
+
+#### Exotic Weapons
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
 ![Ranged Weapons 1](images/DHRangedWeapons2.png)
 
 ![Ranged Weapons 2](images/AscRangedWeapons1.png)
