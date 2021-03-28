@@ -97,6 +97,7 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 | Grenade Launcher          |  Basic |   60m | S/-/- |     *    |   * |   6  |  Full |                          *       |   9kg |       5      |       -       |
 | RPG Launcher              |  Heavy |  120m | S/-/- |     *    |   * |   1  |  Full |                          *       |  15kg |       6      |       -       |
 | Missile Launcher          |  Heavy |  300m | S/-/- |     *    |   * |   1  |  Full |                          *       |  35kg |      10      |       -       |
+
 *Damage, Armour Piercing and Special Qualities are determined by the ammunition (i.e. the grenade, for grenade launcher and rpg, missile for missile launcher) fired.
 
 #### Grenades and Missiles
