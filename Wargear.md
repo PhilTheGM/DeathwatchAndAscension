@@ -113,6 +113,8 @@ Fire Bomb
 #### Exotic Weapons
 |            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
 | ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
+
+
 ![Ranged Weapons 1](images/DHRangedWeapons2.png)
 
 ![Ranged Weapons 2](images/AscRangedWeapons1.png)
