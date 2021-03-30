@@ -34,7 +34,7 @@ Some weapons, such as standard las weapons, have a variable setting option, allo
 | Autopistol               | Pistol |   30m |  S/-/6 |  1d10+2I |   0 |   18 |  Full |                    | 2.5kg |       2      |       -       |
 | Stub Revolver            | Pistol |   30m |  S/-/- |  1d10+3I |   0 |    6 | 2Full |           Reliable |  1kg  |       1      |       -       |
 | Stub Automatic           | Pistol |   30m |  S/3/- |  1d10+3I |   0 |    9 |  Full |                    | 1.5kg |       1      |       -       |
-| Hand Cannon              | Pistol |   35m |  S/-/- |  1d10+4I |   2 |    5 | 2Full |                    |   5kg |       2      |       -       |
+| Hand Cannon              | Pistol |   35m |  S/-/- |  1d10+4I |   2 |    5 | 2Full |          See Notes |   5kg |       2      |       -       |
 | Autogun                  |  Basic |   90m | S/3/10 |  1d10+3I |   0 |   30 | 2Full |                    | 3.5kg |       3      |       -       |
 | Sniper Rifle             |  Basic |  200m |  S/-/- |  1d10+4I |   3 |   20 |  Full | Accurate, Reliable |   5kg |       5      |       -       |
 | Shotgun                  |  Basic |   30m |  S/-/- |  1d10+4I |   0 |    2 | 2Full |  Scatter, Reliable |   5kg |       2      |       -       |
@@ -88,8 +88,8 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 | Flintlock Pistol          | Pistol |   15m | S/-/- |  1d10+2I |   0 |   1  | 3Full | Primitive, Unreliable, Inacurate |   4kg |       1      |       -       |
 | Musket                    |  Basic |   30m | S/-/- |  1d10+2I |   0 |   1  | 5Full | Primitive, Unreliable, Inacurate |   7kg |       2      |       -       |
 | Bow                       |  Basic |   30m | S/-/- |    1d10R |   0 |   1  |  Full |              Primitive, Reliable |   2kg |       2      |       -       |
-| Sling                     |  Basic |   15m | S/-/- |  1d10-2I |   0 |   1  |  Full |                       Primitive  | 0.5kg |       1      |       -       |
-| Crossbow                  |  Basic |   30m | S/-/- |    1d10R |   0 |   1  | 2Full |                       Primitive  |   3kg |       2      |       -       |
+| Sling                     |  Basic |   15m | S/-/- |  1d10-2I |   0 |   1  |  Full |                        Primitive | 0.5kg |       1      |       -       |
+| Crossbow                  |  Basic |   30m | S/-/- |    1d10R |   0 |   1  | 2Full |                        Primitive |   3kg |       2      |       -       |
 
 #### Launchers
 |            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
@@ -101,21 +101,33 @@ doing so. These weapons produce ferocious recoil, and unless fired two-handed, i
 *Damage, Armour Piercing and Special Qualities are determined by the ammunition (i.e. the grenade, for grenade launcher and rpg, missile for missile launcher) fired.
 
 #### Grenades and Missiles
-|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
-| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
-Frag Grenade
-Krak Grenade
-Blind Grenade
-Photon Flash Grenade
-Hallucinogen Grenade
-Fire Bomb
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen |        Special      |   Wt  | Req |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ------------------- | ----- | --- | ------------- |
+| Frag Grenade              | Thrown |  SBx3 | s/-/- |    2D10X |   0 |            Blast(4) |   0.5 |  1  |       _       |
+| Krak Grenade              | Thrown |  SBx3 | s/-/- |  2D10+4X |   6 |                     |   0.5 |  1  |       _       |
+| Blind Grenade             | Thrown |  SBx3 | s/-/- |     -    |   0 |               Smoke |   0.5 |  3  |       _       |
+| Photon Flash Grenade      | Thrown |  SBx3 | s/-/- |     -    |   0 |           See Notes |   0.5 |  3  |       _       |
+| Hallucinogen Grenade      | Thrown |  SBx3 | s/-/- |    2D10X |   0 |  See Notes, Blast() |   0.5 |  5  |     Respected |
+| Fire Bomb                 | Thrown |  SBx3 | s/-/- |  1D10+3X |   6 | See Notes, Blast(3) |   0.5 |  3  |       _       |
+
+#### Photon Flash Grenade
+Photon ash grenades detonate like a small star, blinding anyone nearby and bright enough to overload cheap or primitive vision protection systems. Anyone within 15 metres of a photo ash grenade when it detonates must succeed on a Toughness Test or be blinded for 1d5 Rounds.
+
+#### Hallucinogen Grenade
+These kinds of grenades induce a variety of short-lived psychological states and delusions. Anyone within 10 metres of a detonating hallucinogen grenade must succeed on a Difficult (–10) Toughness Test or be overcome with delusions and hallucinations for 1d10 Rounds. Whilst affected, on the character’s Turn, roll d100. On a 50 or less, the character may act normally. On a 51–75, the character runs around screaming in response to someperceived weirdness. On a 76 or higher, the character attacks the closest creature to him, regardless of friend or foe, using whatever weapons he has.  
+**Optional Rule**: When the character is first affected by a hallucination grenade, you can roll on  the bellow table: *Hallucinogen Effects*, to see how the character behaves for the next 1d10 Rounds.  
+![Hallucinogen Effects Table](images/HallucinogenEffects.png)
+
+#### Firebomb
+A relatively primitive grenade, the fire bomb is normally a breakable canister of ammable liquid with a fuse made from cloth or other material that the liquid can soak into. Once the fuse is set a ame, the bomb is hurled at the enemy; the canister breaks open on impact to release the now burning liquid. A target struck by a fire bomb must make an Agility Test or catch on fire
 
 #### Exotic Weapons
-|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |               Special            |   Wt  |      Req     |     Renown    |
-| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------------------- | ----- | ------------ | ------------- |
-
-
-![Ranged Weapons 1](images/DHRangedWeapons2.png)
+|            Name           |  Class | Range |  RoF  |    Dam   | Pen | Clip |  Rld  |         Special      |   Wt  |   Req  |     Renown    |
+| ------------------------- | ------ | ----- | ----- | -------- | --- | ---- | ----- | -------------------- | ----- | ------ | ------------- |
+| Needle Pistol             | Pistol |   30m | S/–/– |    1d10R |  0  |   6  |  Full |      Accurate, Toxic | 1.5kg |      5 |     Respected |
+| Web Pistol                | Pistol |   30m | S/–/– |     -    |  0  |   6  |  Full |                Snare | 3.5kg |      5 | Distinguished |
+| Needle Rifle              |  Basic |  180m | S/–/– |    1d10R |  0  |   6  |  Full |      Accurate, Toxic |   2kg |      8 | Distinguished |
+| Webber                    |  Basic |   50m | S/–/– |     -    |  0  |   6  |  Full |      Blast(5), Snare |   8kg |      8 |         Famed |
 
 ![Ranged Weapons 2](images/AscRangedWeapons1.png)
 ![Ranged Weapons 3](images/AscRangedWeapons2.png)
