@@ -128,12 +128,12 @@ A truly flexible warrior capable of engaging the enemy when they at the most opp
 * Once per combat may spend a fate point to make an extra attack against a foe that you have hatred against.
 * **Equipment**:
  * You can choose 1 from the following list:
- * Godwyn-De'az Patern Bolter, 4 Frag grenades, 4 Krak grenades, 1 Melta bomb. 
- * Godwyn-De'az Patern Bolter, Chainsword, 2 Frag grenades, 2 Krak grenades.
-    * Godwyn-De'az Patern Bolter, Powersword.
-    * Godwyn-De'az Storm Bolter, 1 Frag grenades, 1 Krak grenades,
- * Flameer, 2 Frag grenades, 2 Krak grenades.
-    * Meltagun
+   * Godwyn-De'az Patern Bolter, 4 Frag grenades, 4 Krak grenades, 1 Melta bomb. 
+   * Godwyn-De'az Patern Bolter, Chainsword, 2 Frag grenades, 2 Krak grenades.
+   * Godwyn-De'az Patern Bolter, Powersword.
+   * Godwyn-De'az Storm Bolter, 1 Frag grenades, 1 Krak grenades,
+   * Flameer, 2 Frag grenades, 2 Krak grenades.
+   * Meltagun
 
 Characteristics:
 | | +5 | +10 | +15 | +20 |
@@ -260,15 +260,15 @@ Characteristics:
 
 * **Equipment**:
  * You can choose 1 from the following list:
- * Godwyn-De'az Patern Bolter, Powersword. 
- * Seraphic Inferno Pistol, Powersword.
-    * Plasma Pistol, Powersword.
-    * Braiser of Holy Fire.
-  * You can choose 1 from the following list:
- * Seraphic Jump Pack
- * Liber Heresies
- * Litanies of Faith
- * Simulacrum Imperialis
+   * Godwyn-De'az Patern Bolter, Powersword. 
+   * Seraphim Inferno Pistol, Powersword.
+   * Plasma Pistol, Powersword.
+   * Braiser of Holy Fire.
+ * You can choose 1 from the following list:
+   * Seraphim Jump Pack
+   * Liber Heresies
+   * Litanies of Faith
+   * Simulacrum Imperialis
 
 Characteristics:
 | | +5 | +10 | +15 | +20 |
@@ -292,9 +292,9 @@ Characteristics:
 
 * **Equipment**:
  * You can choose 1 from the following list:
- * Godwyn-De'az Patern Heavy Bolter, Backpack Ammo Supply. 
- * Heavy Flamer, Backpack Ammo Supply.
-    * Multi-Melta.
+   * Godwyn-De'az Patern Heavy Bolter, Backpack Ammo Supply. 
+   * Heavy Flamer, Backpack Ammo Supply.
+   * Multi-Melta.
 
 Characteristics:
 | | +5 | +10 | +15 | +20 |
