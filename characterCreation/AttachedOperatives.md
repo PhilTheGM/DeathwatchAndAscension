@@ -5,7 +5,7 @@ Attached operatives are members of organisations other that the Deathwatch who h
 Creation of an attached operative is a much faster simpler affair than an astartes. The following steps are all you need to do.
 
 ### 1 - Concept To Fit The Mission
-Attached operatives are designed to be assigned to a kill team for the duration of a single mission. Effort must be taken to make an operative that would bring something to the team on a given mission. The game master may help by adding or modifying objectives to give your character purpose. Designing an operative to be permanently attached to the kill team is a much more difficult task, which requires buy in from the entire  group, as it dictates the type of missions that the kill team will be sent on.
+Attached operatives are designed to be assigned to a kill team for the duration of a single mission. Effort must be taken to make an operative that would bring something to the team on the given mission. The game master may help by adding or modifying objectives to give your character purpose. Designing an operative to be permanently attached to the kill team is a much more difficult task, which requires buy in from the entire  group, as it dictates the type of missions that the kill team will be sent on.
 
 ### 2 - Characteristic Generation
 Characteristic are generated in the same manner as an astartes characteristics (Deathwatch Core pg25-26). However, operatives add their figures to 25, rather than 30. `Note there is an alternative Characteristic Generation method presented in the House Rules document`
