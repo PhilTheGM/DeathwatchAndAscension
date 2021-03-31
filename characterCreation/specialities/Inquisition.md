@@ -251,8 +251,8 @@ One of the few mortals that can speak to an astarties as an equal, you are prize
 * **Pick 8 of the following**: Skill(Any) x 7, Skill +10 (Any) x 7, Pistol Weapon Training(Any) x 4, Melee Weapon Training(Any) x 4, Exotic Weapon Training(Any) x 2, Foresight, Infused Knowledge.
 * **Equipment**:
   * Your your inquisitorial uniform counts as a suit of carapace (6AP all)
-  * You can choose 2 pistol, melee or exotic weapons. These may be astartes weapons.
-  * You may choose any 1 grenade. 
+  * You can choose 2 pistol, melee or exotic weapons. These may be astartes weapons and of any rank.
+  * You may choose any 1 grenade. These may be astartes weapons and of any rank.
   * You may choose any 2 from the following list:
     * Weapon Upgrade
     * Wargear
